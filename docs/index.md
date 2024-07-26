@@ -96,6 +96,15 @@ features:
   - title: v8.9.70
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_8.9.70_64.apk
 
+  - title: v8.9.70.11635
+    link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_8.9.70.11635_64.apk
+
+  - title: v8.9.70.11630
+    link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_8.9.70.11630_64.apk
+
+  - title: v8.9.70.11625
+    link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_8.9.70.11625_64.apk
+
   - title: v8.9.63.11390
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_8.9.63.11390_64.apk
 
