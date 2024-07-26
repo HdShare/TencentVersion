@@ -4,6 +4,8 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "QQVersion",
   description: "QQVersion",
+  lang: "zh-Hans",
+  base: '/QQVersion/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
