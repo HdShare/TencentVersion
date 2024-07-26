@@ -12,8 +12,17 @@ features:
   - title: v9.0.80
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.80_64.apk
 
+  - title: v9.0.80.18140
+    link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.80.18140_64.apk
+
   - title: v9.0.75
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.75_64.apk
+
+  - title: v9.0.75.17880
+    link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.75.17880_64.apk
+
+  - title: v9.0.75.17865
+    link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.75.17865_64.apk
 
   - title: v9.0.71
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.71_64.apk
@@ -21,11 +30,29 @@ features:
   - title: v9.0.70
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.70_64.apk
 
+  - title: v9.0.70.17590
+    link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.70.17590_64.apk
+
   - title: v9.0.65
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.65_64.apk
 
+  - title: v9.0.65.17320
+    link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.65.17320_64.apk
+
+  - title: v9.0.65.17315
+    link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.65.17315_64.apk
+
   - title: v9.0.60
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.60_64.apk
+
+  - title: v9.0.60.17050
+    link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.60.17050_64.apk
+
+  - title: v9.0.60.17045
+    link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.60.17045_64.apk
+
+  - title: v9.0.60.17040
+    link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.60.17040_64.apk
 
   - title: v9.0.56
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.56_64.apk
