@@ -11,6 +11,9 @@ export default defineConfig({
     ],
     socialLinks: [
       { icon: 'github', link: 'https://github.com/HdShare/QQVersion' }
-    ]
+    ],
+    footer: {
+      copyright: "版权所有 © 2024 <a href='https://github.com/HdShare'>HdShare</a>"
+    },
   }
 })
