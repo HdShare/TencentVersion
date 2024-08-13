@@ -6,6 +6,11 @@ hero:
   text: "QQ版本"
 
 features:
+  - title: v9.0.85 (7068)
+    details:
+    linkText: 下载
+    link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.85_64.apk
+
   - title: v9.0.85.18515 (7046)
     details:
     linkText: 下载
