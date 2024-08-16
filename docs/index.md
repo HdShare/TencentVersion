@@ -6,6 +6,11 @@ hero:
   text: "QQ版本"
 
 features:
+  - title: v9.0.90.18890 (7196)
+    details:
+    linkText: 下载
+    link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.90.18890_64.apk
+
   - title: v9.0.85 (7068)
     details:
     linkText: 下载
@@ -62,7 +67,7 @@ features:
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.70.17590_64.apk
 
   - title: v9.0.65 (6588)
-    details:
+    details: 通用-发图方式-半屏相册(边聊天边发图可图文混排)
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.65_64.apk
 
