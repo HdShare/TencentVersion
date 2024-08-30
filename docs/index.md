@@ -146,7 +146,7 @@ features:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.35_64.apk
 
-  - title: v9.0.35.16220 (6150)
+  - title: v9.0.35.16220 (6128)
     details:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.35.16220_64.apk
