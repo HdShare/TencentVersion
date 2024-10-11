@@ -4,8 +4,19 @@ layout: home
 hero:
   name: "QQVersion"
   text: "QQ版本"
+  tagline: 随缘更新
 
 features:
+  - title: v9.1.5 (xxxx)
+    details: 待添加
+    linkText: 下载
+    link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.5_64.apk
+
+  - title: v9.1.5.20030 (7652)
+    details:
+    linkText: 下载
+    link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.5.20030_64.apk
+
   - title: v9.1.5.20015 (7646)
     details:
     linkText: 下载
@@ -102,7 +113,7 @@ features:
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.70.17590_64.apk
 
   - title: v9.0.65 (6588)
-    details: 通用-发图方式-半屏相册(边聊天边发图可图文混排)
+    details: 
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.65_64.apk
 
