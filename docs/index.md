@@ -7,8 +7,8 @@ hero:
   tagline: 随缘更新
 
 features:
-  - title: v9.1.5 (xxxx)
-    details: 待添加
+  - title: v9.1.5 (7688)
+    details:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.5_64.apk
 
@@ -113,7 +113,7 @@ features:
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.70.17590_64.apk
 
   - title: v9.0.65 (6588)
-    details: 
+    details:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.65_64.apk
 
