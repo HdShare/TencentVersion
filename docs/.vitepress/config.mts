@@ -1,16 +1,16 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  title: "QQVersion",
-  description: "QQVersion",
+  title: "TencentVersion",
+  description: "TencentVersion",
   lang: "zh-Hans",
-  base: '/QQVersion/',
+  base: '/TencentVersion/',
   themeConfig: {
     nav: [
       { text: '首页', link: '/' },
     ],
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/HdShare/QQVersion' }
+      { icon: 'github', link: 'https://github.com/HdShare/TencentVersion' }
     ],
     footer: {
       copyright: "版权所有 © 2024 <a href='https://github.com/HdShare'>HdShare</a>"

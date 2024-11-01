@@ -2,8 +2,8 @@
 layout: home
 
 hero:
-  name: "QQVersion"
-  text: "QQ版本"
+  name: "TencentVersion"
+  text: "腾讯版本"
   tagline: 随缘更新
 
 features:
