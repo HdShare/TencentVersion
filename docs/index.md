@@ -13,12 +13,12 @@ features:
     link: /version/qq
 
   - title: Tim
-    details: v8.0.53
+    details: v3.5.8 ~ v3.4.8
     linkText: Open
     link: /version/tim
 
   - title: WeChat
-    details: v3.5.8
+    details: v8.0.53 ~ v8.0.45
     linkText: Open
     link: /version/wechat
 ---
