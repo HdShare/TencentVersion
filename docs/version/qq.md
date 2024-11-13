@@ -8,12 +8,12 @@ hero:
 
 features:
   - title: v9.1.15 (8028)
-    details: 
+    details:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.15_64.apk
 
   - title: v9.1.15.20875 (7990)
-    details
+    details:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.15.20875_64.apk
 
