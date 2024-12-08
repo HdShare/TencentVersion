@@ -6,7 +6,7 @@
 
 ## 版本:
 
-QQ, Tim, WeChat
+QQ(主更), Tim, WeChat
 
 ## 贡献:
 
