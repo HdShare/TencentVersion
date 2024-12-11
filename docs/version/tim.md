@@ -7,6 +7,21 @@ hero:
   tagline: 随缘更新
 
 features:
+  - title: v4.0.97 (4011)
+    details:
+    linkText: 下载
+    link: https://tim-1258344701.shiply-cdn.qq.com/apprelease/gray/ad6b501b0e/prod/1733453577/tim_4.0.97.4011_r3110ef2b_64_t2024-12-05_v4011_GuanWang_537263469_cid2017_release-signed.apk
+
+  - title: v4.0.96 (4010)
+    details:
+    linkText: 下载
+    link: https://tim-1258344701.shiply-cdn.qq.com/apprelease/gray/ad6b501b0e/prod/1732893586/tim_4.0.96.4010_r6c784d54_64_t2024-11-29_v4010_GuanWang_537261131_cid2017_release-signed.apk
+
+  - title: v4.0.95 (4008)
+    details:
+    linkText: 下载
+    link: https://tim-1258344701.shiply-cdn.qq.com/apprelease/gray/ad6b501b0e/prod/1732245378/tim_4.0.95.4008_r3b8db658_64_t2024-11-19_v4008_GuanWang_537249218_cid2017_release-signed.apk
+
   - title: v3.5.8 (1358)
     details:
     linkText: 下载
