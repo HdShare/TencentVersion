@@ -13,7 +13,7 @@ features:
     link: /version/qq
 
   - title: Tim
-    details: v3.5.8 ~ v3.4.8
+    details: v4.0.97 ~ v3.4.8
     linkText: Open
     link: /version/tim
 
