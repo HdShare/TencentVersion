@@ -8,6 +8,11 @@
 
 QQ(主更), Tim, WeChat
 
-## 贡献:
+## 致谢:
 
-如出错或遗漏可pr
+| Version | Link                                              |
+| ------- | ------------------------------------------------- |
+| QQ      | [QQUpdates](https://t.me/QQUpdates)               |
+| TIM     | [TIMUpdates](https://t.me/TIMUpdates)             |
+| QQ/TIM  | [qq_updatelog](https://t.me/qq_updatelog)         |
+| WeChat  | [wechat_updatelog](https://t.me/wechat_updatelog) |
