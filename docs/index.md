@@ -8,7 +8,7 @@ hero:
 
 features:
   - title: QQ
-    details: v9.1.35 ~ v8.9.58
+    details: v9.1.52 ~ v8.9.58
     linkText: Open
     link: /version/qq
 
@@ -18,7 +18,7 @@ features:
     link: /version/tim
 
   - title: WeChat
-    details: v8.0.53 ~ v8.0.45
+    details: v8.0.56 ~ v5.3.1
     linkText: Open
     link: /version/wechat
 ---

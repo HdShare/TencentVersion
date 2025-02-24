@@ -6,13 +6,16 @@
 
 ## 版本:
 
-QQ(主更), Tim, WeChat
+QQ(v9.1.52 ~ v8.9.58)
+Tim(v4.0.98 ~ v3.4.8)
+WeChat(v8.0.56 ~ v5.3.1)
 
 ## 致谢:
 
-| Version | Link                                              |
-| ------- | ------------------------------------------------- |
-| QQ      | [QQUpdates](https://t.me/QQUpdates)               |
-| TIM     | [TIMUpdates](https://t.me/TIMUpdates)             |
-| QQ/TIM  | [qq_updatelog](https://t.me/qq_updatelog)         |
-| WeChat  | [wechat_updatelog](https://t.me/wechat_updatelog) |
+| Version | Link                                                                                                |
+| ------- | --------------------------------------------------------------------------------------------------- |
+| QQ      | [QQUpdates](https://t.me/QQUpdates)                                                                 |
+| TIM     | [TIMUpdates](https://t.me/TIMUpdates)                                                               |
+| QQ/TIM  | [qq_updatelog](https://t.me/qq_updatelog)                                                           |
+| WeChat  | [wechat_updatelog](https://t.me/wechat_updatelog)                                                   |
+| WeChat  | [wechat-android-history-versions](https://github.com/DJB-Developer/wechat-android-history-versions) |
