@@ -237,137 +237,137 @@ features:
     linkText: 下载
     link: https://dldir1.qq.com/weixin/android/weixin8037android2380.apk
 
-  - title: v8.0.35 (2460)
+  - title: v8.0.35 (2360)
     details:
     linkText: 下载
     link: https://dldir1.qq.com/weixin/android/weixin8035android2360.apk
 
-  - title: v8.0.34 (2460)
+  - title: v8.0.34 (2340)
     details:
     linkText: 下载
     link: https://dldir1.qq.com/weixin/android/weixin8034android2340.apk
 
-  - title: v8.0.33 (2460)
+  - title: v8.0.33 (2320)
     details:
     linkText: 下载
     link: https://dldir1.qq.com/weixin/android/weixin8033android2320.apk
 
-  - title: v8.0.31 (2460)
+  - title: v8.0.31 (2300)
     details:
     linkText: 下载
     link: https://dldir1.qq.com/weixin/android/weixin8032android2300.apk
 
-  - title: v8.0.31 (2460)
+  - title: v8.0.31 (2280)
     details:
     linkText: 下载
     link: https://dldir1.qq.com/weixin/android/weixin8031android2280.apk
 
-  - title: v8.0.30 (2460)
+  - title: v8.0.30 (2260)
     details:
     linkText: 下载
     link: https://dldir1.qq.com/weixin/android/weixin8030android2260.apk
 
-  - title: v8.0.28 (2460)
+  - title: v8.0.28 (2240)
     details:
     linkText: 下载
     link: https://dldir1.qq.com/weixin/android/weixin8028android2240.apk
 
-  - title: v8.0.27 (2460)
+  - title: v8.0.27 (2220)
     details:
     linkText: 下载
     link: https://dldir1.qq.com/weixin/android/weixin8027android2220.apk
 
-  - title: v8.0.25 (2460)
+  - title: v8.0.25 (2200)
     details:
     linkText: 下载
     link: https://dldir1.qq.com/weixin/android/weixin8025android2200.apk
 
-  - title: v8.0.24 (2460)
+  - title: v8.0.24 (2180)
     details:
     linkText: 下载
     link: https://dldir1.qq.com/weixin/android/weixin8024android2180.apk
 
-  - title: v8.0.23 (2460)
+  - title: v8.0.23 (2160)
     details:
     linkText: 下载
     link: https://dldir1.qq.com/weixin/android/weixin8023android2160.apk
 
-  - title: v8.0.22 (2460)
+  - title: v8.0.22 (2140)
     details:
     linkText: 下载
     link: https://dldir1.qq.com/weixin/android/weixin8022android2140.apk
 
-  - title: v8.0.21 (2460)
+  - title: v8.0.21 (2120)
     details:
     linkText: 下载
     link: https://dldir1.qq.com/weixin/android/weixin8021android2120.apk
 
-  - title: v8.0.20 (2460)
+  - title: v8.0.20 (2100)
     details:
     linkText: 下载
     link: https://dldir1.qq.com/weixin/android/weixin8020android2100.apk
 
-  - title: v8.0.19 (2460)
+  - title: v8.0.19 (2080)
     details:
     linkText: 下载
     link: https://dldir1.qq.com/weixin/android/weixin8019android2080.apk
 
-  - title: v8.0.18 (2460)
+  - title: v8.0.18 (2060)
     details:
     linkText: 下载
     link: https://dldir1.qq.com/weixin/android/weixin8018android2060.apk
 
-  - title: v8.0.16 (2460)
+  - title: v8.0.16 (2040)
     details:
     linkText: 下载
     link: https://dldir1.qq.com/weixin/android/weixin8016android2040.apk
 
-  - title: v8.0.15 (2460)
+  - title: v8.0.15 (2020)
     details:
     linkText: 下载
     link: https://dldir1.qq.com/weixin/android/weixin8015android2020.apk
 
-  - title: v8.0.14 (2460)
+  - title: v8.0.14 (2000)
     details:
     linkText: 下载
     link: https://dldir1.qq.com/weixin/android/weixin8014android2000.apk
 
-  - title: v8.0.11 (2460)
+  - title: v8.0.11 (1980)
     details:
     linkText: 下载
     link: https://dldir1.qq.com/weixin/android/weixin8011android1980.apk
 
-  - title: v8.0.10 (2460)
+  - title: v8.0.10 (1960)
     details:
     linkText: 下载
     link: https://dldir1.qq.com/weixin/android/weixin8010android1960.apk
 
-  - title: v8.0.9 (2460)
+  - title: v8.0.9 (1940)
     details:
     linkText: 下载
     link: https://dldir1.qq.com/weixin/android/weixin809android1940.apk
 
-  - title: v8.0.7 (2460)
+  - title: v8.0.7 (1920)
     details:
     linkText: 下载
     link: https://dldir1.qq.com/weixin/android/weixin807android1920.apk
 
-  - title: v8.0.6 (2460)
+  - title: v8.0.6 (1900)
     details:
     linkText: 下载
     link: https://dldir1.qq.com/weixin/android/weixin806android1900.apk
 
-  - title: v8.0.3 (2460)
+  - title: v8.0.3 (1880)
     details:
     linkText: 下载
     link: https://dldir1.qq.com/weixin/android/weixin803android1880.apk
 
-  - title: v8.0.2 (2460)
+  - title: v8.0.2 (1860)
     details:
     linkText: 下载
     link: https://dldir1.qq.com/weixin/android/weixin802android1860.apk
 
-  - title: v8.0.1 (2460)
+  - title: v8.0.1 (1840)
     details:
     linkText: 下载
     link: https://dldir1.qq.com/weixin/android/weixin801android1840.apk
