@@ -7,6 +7,11 @@ hero:
   tagline: 随缘更新
 
 features:
+  - title: v4.0.99 (4030)
+    details:
+    linkText: 下载
+    link: https://downv6.qq.com/qqweb/QQ_1/android_apk/tim_4.0.99.4030.apk
+
   - title: v4.0.98 (4012)
     details:
     linkText: 下载
