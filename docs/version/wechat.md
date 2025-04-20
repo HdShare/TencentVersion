@@ -272,7 +272,7 @@ features:
     linkText: 下载
     link: https://dldir1.qq.com/weixin/android/weixin8033android2320.apk
 
-  - title: v8.0.31 (2300)
+  - title: v8.0.32 (2300)
     details:
     linkText: 下载
     link: https://dldir1.qq.com/weixin/android/weixin8032android2300.apk
