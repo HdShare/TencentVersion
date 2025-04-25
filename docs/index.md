@@ -18,7 +18,7 @@ features:
     link: /version/tim
 
   - title: WeChat
-    details: v8.0.57 ~ v5.3.1
+    details: v8.0.58 ~ v5.3.1
     linkText: Open
     link: /version/wechat
 ---
