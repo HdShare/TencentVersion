@@ -7,6 +7,11 @@ hero:
   tagline: 随缘更新
 
 features:
+  - title: v8.0.58_0x28003a35 (2841)
+    details:
+    linkText: 下载
+    link: https://dldir1.qq.com/weixin/android/weixin8058android2841_0x28003a35_arm64.apk
+
   - title: v8.0.58_0x28003a34 (2840)
     details:
     linkText: 下载
