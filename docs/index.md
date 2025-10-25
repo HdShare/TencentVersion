@@ -8,7 +8,7 @@ hero:
 
 features:
   - title: QQ
-    details: v9.2.20 ~ v8.9.58
+    details: v9.2.27 ~ v8.9.58
     linkText: Open
     link: /version/qq
 
