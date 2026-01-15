@@ -7,60 +7,70 @@ hero:
   tagline: 随缘更新
 
 features:
+  - title: v8.0.67_0x28004333 (3000)
+    details:
+    linkText: 下载
+    link: https://dldir1v6.qq.com/weixin/android/weixin8067android3000_0x28004333_arm64.apk
+
   - title: v8.0.67_0x28004332 (3000)
     details:
     linkText: 下载
-    link: https://dldir1.qq.com/weixin/android/weixin8067android3000_0x28004332_arm64.apk
+    link: https://dldir1v6.qq.com/weixin/android/weixin8067android3000_0x28004332_arm64.apk
+
+  - title: v8.0.66_0x28004234 (2980)
+    details:
+    linkText: 下载
+    link: https://dldir1v6.qq.com/weixin/android/weixin8066android2980_0x28004234_arm64.apk
 
   - title: v8.0.66_0x28004233 (2980)
     details:
     linkText: 下载
-    link: https://dldir1.qq.com/weixin/android/weixin8066android2980_0x28004233_arm64_1.apk
+    link: https://dldir1v6.qq.com/weixin/android/weixin8066android2980_0x28004233_arm64_1.apk
 
   - title: v8.0.65_0x28004137 (2960)
     details:
     linkText: 下载
-    link: https://dldir1.qq.com/weixin/android/weixin8065android2960_0x28004137_arm64.apk
+    link: https://dldir1v6.qq.com/weixin/android/weixin8065android2960_0x28004137_arm64.apk
 
   - title: v8.0.64_0x28004033 (2940)
     details:
     linkText: 下载
-    link: https://dldir1.qq.com/weixin/android/weixin8064android2940_0x28004033_arm64_1.apk
+    link: https://dldir1v6.qq.com/weixin/android/weixin8064android2940_0x28004033_arm64_1.apk
 
   - title: v8.0.63_0x28003f33 (2920)
     details:
     linkText: 下载
-    link: https://dldir1.qq.com/weixin/android/weixin8063android2920_0x28003f33_arm64.apk
+    link: https://dldir1v6.qq.com/weixin/android/weixin8063android2920_0x28003f33_arm64.apk
 
   - title: v8.0.63_0x28003f32 (2920)
     details:
     linkText: 下载
-    link: https://dldir1.qq.com/weixin/android/weixin8063android2920_0x28003f32_arm64.apk
+    link: https://dldir1v6.qq.com/weixin/android/weixin8063android2920_0x28003f32_arm64.apk
 
   - title: v8.0.62_0x28003e39 (2900)
     details:
     linkText: 下载
-    link: https://dldir1.qq.com/weixin/android/weixin8062android2900_0x28003e39_arm64.apk
+    link: https://dldir1v6.qq.com/weixin/android/weixin8062android2900_0x28003e39_arm64.apk
 
   - title: v8.0.61_0x28003d34 (2880)
     details:
     linkText: 下载
-    link: https://dldir1.qq.com/weixin/android/weixin8061android2880_0x28003d34_arm64.apk
+    link: https://dldir1v6.qq.com/weixin/android/weixin8061android2880_0x28003d34_arm64.apk
 
   - title: v8.0.60_0x28003c3f (2860)
     details:
     linkText: 下载
-    link: https://dldir1.qq.com/weixin/android/weixin8060android2860_0x28003c3f_arm64.apk
+    link: https://dldir1v6.qq.com/weixin/android/weixin8060android2860_0x28003c3f_arm64.apk
 
   - title: v8.0.60_0x28003c39 (2860)
     details:
     linkText: 下载
-    link: https://dldir1.qq.com/weixin/android/weixin8060android2860_0x28003c39_arm64.apk
+    link: https://dldir1v6.qq.com/weixin/android/weixin8060android2860_0x28003c39_arm64.apk
 
   - title: v8.0.60_0x28003c38 (2860)
     details:
     linkText: 下载
-    link: https://dldir1.qq.com/weixin/android/weixin8060android2860_0x28003c38_arm64.apk
+    link: https://dldir1v6.qq.com/weixin/android/weixin8060android2860_0x28003c38_arm64.apk
 
   - title: v8.0.58_0x28003a3f (2841)
     details:
@@ -70,72 +80,72 @@ features:
   - title: v8.0.58_0x28003a35 (2841)
     details:
     linkText: 下载
-    link: https://dldir1.qq.com/weixin/android/weixin8058android2841_0x28003a35_arm64.apk
+    link: https://dldir1v6.qq.com/weixin/android/weixin8058android2841_0x28003a35_arm64.apk
 
   - title: v8.0.58_0x28003a34 (2840)
     details:
     linkText: 下载
-    link: https://dldir1.qq.com/weixin/android/weixin8058android2840_0x28003a34_arm64.apk
+    link: https://dldir1v6.qq.com/weixin/android/weixin8058android2840_0x28003a34_arm64.apk
 
   - title: v8.0.58_0x28003a33 (2840)
     details:
     linkText: 下载
-    link: https://dldir1.qq.com/weixin/android/weixin8058android2840_0x28003a33_arm64.apk
+    link: https://dldir1v6.qq.com/weixin/android/weixin8058android2840_0x28003a33_arm64.apk
 
   - title: v8.0.57_0x28003933 (2820)
     details:
     linkText: 下载
-    link: https://dldir1.qq.com/weixin/android/weixin8057android2820_0x28003933_arm64.apk
+    link: https://dldir1v6.qq.com/weixin/android/weixin8057android2820_0x28003933_arm64.apk
 
   - title: v8.0.57_0x28003932 (2820)
     details:
     linkText: 下载
-    link: https://dldir1.qq.com/weixin/android/weixin8057android2820_0x28003932_arm64.apk
+    link: https://dldir1v6.qq.com/weixin/android/weixin8057android2820_0x28003932_arm64.apk
 
   - title: v8.0.56_0x280038f8_2 (2800)
     details:
     linkText: 下载
-    link: https://dldir1.qq.com/weixin/android/weixin8056android2800_0x280038f8_arm64_2.apk
+    link: https://dldir1v6.qq.com/weixin/android/weixin8056android2800_0x280038f8_arm64_2.apk
 
   - title: v8.0.56_0x280038f8_1 (2800)
     details:
     linkText: 下载
-    link: https://dldir1.qq.com/weixin/android/weixin8056android2800_0x280038f8_arm64_1.apk
+    link: https://dldir1v6.qq.com/weixin/android/weixin8056android2800_0x280038f8_arm64_1.apk
 
   - title: v8.0.56_0x2800383c (2800)
     details:
     linkText: 下载
-    link: https://dldir1.qq.com/weixin/android/weixin8056android2800_0x2800383c_arm64.apk
+    link: https://dldir1v6.qq.com/weixin/android/weixin8056android2800_0x2800383c_arm64.apk
 
   - title: v8.0.56_0x2800383a (2800)
     details:
     linkText: 下载
-    link: https://dldir1.qq.com/weixin/android/weixin8056android2800_0x2800383a_arm64.apk
+    link: https://dldir1v6.qq.com/weixin/android/weixin8056android2800_0x2800383a_arm64.apk
 
   - title: v8.0.56_0x28003838 (2800)
     details:
     linkText: 下载
-    link: https://dldir1.qq.com/weixin/android/weixin8056android2800_0x28003838_arm64.apk
+    link: https://dldir1v6.qq.com/weixin/android/weixin8056android2800_0x28003838_arm64.apk
 
   - title: v8.0.56_0x28003833 (2800)
     details:
     linkText: 下载
-    link: https://dldir1.qq.com/weixin/android/weixin8056android2800_0x28003833_arm64.apk
+    link: https://dldir1v6.qq.com/weixin/android/weixin8056android2800_0x28003833_arm64.apk
 
   - title: v8.0.56_0x28003832 (2800)
     details:
     linkText: 下载
-    link: https://dldir1.qq.com/weixin/android/weixin8056android2800_0x28003832_arm64.apk
+    link: https://dldir1v6.qq.com/weixin/android/weixin8056android2800_0x28003832_arm64.apk
 
   - title: v8.0.56_0x28003734 (2780)
     details:
     linkText: 下载
-    link: https://dldir1.qq.com/weixin/android/weixin8055android2780_0x28003734_arm64.apk
+    link: https://dldir1v6.qq.com/weixin/android/weixin8055android2780_0x28003734_arm64.apk
 
   - title: v8.0.55_0x28003733 (2780)
     details:
     linkText: 下载
-    link: https://dldir1.qq.com/weixin/android/weixin8055android2780_0x28003733_arm64.apk
+    link: https://dldir1v6.qq.com/weixin/android/weixin8055android2780_0x28003733_arm64.apk
 
   - title: v8.0.54_0x28003636 (2760)
     details:
