@@ -7,6 +7,26 @@ hero:
   tagline: 随缘更新
 
 features:
+  - title: v8.0.69_0x28004530 (3040)
+    details:
+    linkText: 下载
+    link: https://dldir1v6.qq.com/weixin/android/weixin8069android3040_0x28004530_arm64_1.apk
+
+  - title: v8.0.68_0x28004434 (3020)
+    details:
+    linkText: 下载
+    link: https://dldir1v6.qq.com/weixin/android/weixin8068android3020_0x28004434_arm64.apk
+
+  - title: v8.0.68_0x28004433 (3020)
+    details:
+    linkText: 下载
+    link: https://dldir1v6.qq.com/weixin/android/weixin8068android3020_0x28004433_arm64.apk
+
+  - title: v8.0.68_0x28004432 (3020)
+    details:
+    linkText: 下载
+    link: https://dldir1v6.qq.com/weixin/android/weixin8068android3020_0x28004432_arm64.apk
+
   - title: v8.0.67_0x28004333 (3000)
     details:
     linkText: 下载

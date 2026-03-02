@@ -7,6 +7,16 @@ hero:
   tagline: 随缘更新
 
 features:
+  - title: v9.2.66 (13188)
+    details:
+    linkText: 下载
+    link: https://downv6.qq.com/qqweb/QQ_1/android_apk/9.2.66_e25bd9cb26f8caca.apk
+
+  - title: v9.2.65 (13180)
+    details:
+    linkText: 下载
+    link: https://downv6.qq.com/qqweb/QQ_1/android_apk/9.2.65_22189262a13f14f7.apk
+
   - title: v9.2.60 (13010)
     details:
     linkText: 下载
