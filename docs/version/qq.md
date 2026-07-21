@@ -7,127 +7,192 @@ hero:
   tagline: 随缘更新
 
 features:
-  - title: v9.2.66 (13188)
+  - title: v9.3.25.38950 (15220)
+    details:
+    linkText: 下载
+    link: https://downv6.qq.com/qqweb/QQ_1/android_apk/9.3.25_a9d86b4594ac6bcb.apk
+
+  - title: v9.3.20.38525 (15050)
+    details:
+    linkText: 下载
+    link: https://downv6.qq.com/qqweb/QQ_1/android_apk/9.3.20_1e8e50a57667j4e5.apk
+
+  - title: v9.3.15.38100 (14880)
+    details:
+    linkText: 下载
+    link: https://downv6.qq.com/qqweb/QQ_1/android_apk/9.3.15_1e8e50a57667f3d4.apk
+
+  - title: v9.3.10.37675 (14710)
+    details:
+    linkText: 下载
+    link: https://downv6.qq.com/qqweb/QQ_1/android_apk/9.3.10_3b553a3ebc174e67.apk
+
+  - title: v9.3.5.37250 (14540)
+    details:
+    linkText: 下载
+    link: https://downv6.qq.com/qqweb/QQ_1/android_apk/9.3.5_3b553a3ebc173d54.apk
+
+  - title: v9.3.1.36845 (14378)
+    details:
+    linkText: 下载
+    link: https://downv6.qq.com/qqweb/QQ_1/android_apk/9.3.1_877e277185fb829c.apk
+
+  - title: v9.3.0.36825 (14370)
+    details:
+    linkText: 下载
+    link: https://downv6.qq.com/qqweb/QQ_1/android_apk/9.3.0_877e277185fb930b.apk
+
+  - title: v9.2.95.36400 (14200)
+    details:
+    linkText: 下载
+    link: https://downv6.qq.com/qqweb/QQ_1/android_apk/9.2.95_21c09b4d5784fa2d.apk
+
+  - title: v9.2.90.35975 (14030)
+    details:
+    linkText: 下载
+    link: https://downv6.qq.com/qqweb/QQ_1/android_apk/9.2.90_7ae1c0c9ae0b4318.apk
+
+  - title: v9.2.85.35550 (13860)
+    details:
+    linkText: 下载
+    link: https://downv6.qq.com/qqweb/QQ_1/android_apk/9.2.85_57fb3e89d866c586.apk
+
+  - title: v9.2.80.35125 (13690)
+    details:
+    linkText: 下载
+    link: https://downv6.qq.com/qqweb/QQ_1/android_apk/9.2.80_7c7d1008a4510c3d.apk
+
+  - title: v9.2.75.34700 (13520)
+    details:
+    linkText: 下载
+    link: https://downv6.qq.com/qqweb/QQ_1/android_apk/9.2.75_4d7bcd66f86be0eb.apk
+
+  - title: v9.2.70.34275 (13350)
+    details:
+    linkText: 下载
+    link: https://downv6.qq.com/qqweb/QQ_1/android_apk/9.2.70_1d091c25aaf1014e.apk
+
+  - title: v9.2.66.33870 (13188)
     details:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/9.2.66_e25bd9cb26f8caca.apk
 
-  - title: v9.2.65 (13180)
+  - title: v9.2.65.33850 (13180)
     details:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/9.2.65_22189262a13f14f7.apk
 
-  - title: v9.2.60 (13010)
+  - title: v9.2.60.33425 (13010)
     details:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/9.2.60_2d027de571d58f90.apk
 
-  - title: v9.2.55 (12840)
+  - title: v9.2.55.33000 (12840)
     details:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/9.2.55_8ad932464eb5e30b.apk
 
-  - title: v9.2.50 (12670)
+  - title: v9.2.50.32575 (12670)
     details:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/9.2.50_ccff0d6304664ea9.apk
 
-  - title: v9.2.35 (12500)
+  - title: v9.2.35.32150 (12500)
     details:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/9.2.35_0981238b4dfded76.apk
 
-  - title: v9.2.30 (12330)
+  - title: v9.2.30.31725 (12330)
     details:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/9.2.30_b19fc44e0cae059f.apk
 
-  - title: v9.2.27 (12160)
+  - title: v9.2.27.31300 (12160)
     details:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/9.2.27_e4f9a7b3c1d2e5f6a8b9c0d1e2f3a4b5.apk
 
-  - title: v9.2.25 (11820)
+  - title: v9.2.25.30450 (11820)
     details:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/e4c1a9f3d8b72c01e6a5b3d9f821c0e4.apk
 
-  - title: v9.2.20 (11650)
+  - title: v9.2.20.30025 (11650)
     details:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.2.20_64.apk
 
-  - title: v9.2.15 (11480)
+  - title: v9.2.15.29600 (11480)
     details:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.2.15_64.apk
 
-  - title: v9.2.10 (11310)
+  - title: v9.2.10.29175 (11310)
     details:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.2.10_64.apk
 
-  - title: v9.2.5 (11140)
+  - title: v9.2.5.28750 (11140)
     details:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.2.5_64_HB2.apk
 
-  - title: v9.2.0 (10970)
+  - title: v9.2.0.28325 (10970)
     details:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.2.0_64.apk
 
-  - title: v9.1.97 (10800)
+  - title: v9.1.97.27900 (10800)
     details:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.97_64.apk
 
-  - title: v9.1.95 (10460)
+  - title: v9.1.95.27050 (10460)
     details:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.95_64.apk
 
-  - title: v9.1.92 (10300)
+  - title: v9.1.92.26650 (10300)
     details:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.92_64.apk
 
-  - title: v9.1.91 (10298)
+  - title: v9.1.91.26645 (10298)
     details:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.91_64.apk
 
-  - title: v9.1.90 (10290)
+  - title: v9.1.90.26625 (10290)
     details:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.90_64.apk
 
-  - title: v9.1.76 (10076)
+  - title: v9.1.76.26090 (10076)
     details:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.76_64_HB.apk
 
-  - title: v9.1.75 (10068)
+  - title: v9.1.75.26070 (10068)
     details:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.75_64.apk
 
-  - title: v9.1.71 (9906)
+  - title: v9.1.71.25665 (9906)
     details:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.71_64.apk
 
-  - title: v9.1.70 (9898)
+  - title: v9.1.70.25645 (9898)
     details:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.70_64.apk
 
-  - title: v9.1.67 (9728)
+  - title: v9.1.67.25220 (9728)
     details:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.67_64.apk
 
-  - title: v9.1.65 (9558)
+  - title: v9.1.65.24795 (9558)
     details:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.65_64.apk
@@ -147,7 +212,7 @@ features:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.65.24705_64.apk
 
-  - title: v9.1.60 (9388)
+  - title: v9.1.60.24370 (9388)
     details:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.60_64.apk
@@ -157,7 +222,7 @@ features:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.60.24275_64.apk
 
-  - title: v9.1.55 (9218)
+  - title: v9.1.55.23945 (9218)
     details:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.55_64.apk
@@ -167,32 +232,32 @@ features:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.55.23850_64.apk
 
-  - title: v9.1.52 (9054)
+  - title: v9.1.52.23535 (9054)
     details:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.52_64.apk
 
-  - title: v9.1.50 (9048)
+  - title: v9.1.50.23520 (9048)
     details:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.50_64.apk
 
-  - title: v9.1.35 (8708)
+  - title: v9.1.35.22670 (8708)
     details:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.35_64.apk
 
-  - title: v9.1.31 (8542)
+  - title: v9.1.31.22255 (8542)
     details:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.31_64.apk
 
-  - title: v9.1.30 (8538)
+  - title: v9.1.30.22245 (8538)
     details:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.30_64.apk
 
-  - title: v9.1.25 (8368)
+  - title: v9.1.25.21820 (8368)
     details:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.25_64.apk
@@ -202,7 +267,7 @@ features:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.25.21715_64.apk
 
-  - title: v9.1.20 (8198)
+  - title: v9.1.20.21395 (8198)
     details:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.20_64.apk
@@ -212,12 +277,12 @@ features:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.20.21290_64.apk
 
-  - title: v9.1.16 (8032)
+  - title: v9.1.16.20980 (8032)
     details:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.16_64.apk
 
-  - title: v9.1.15 (8028)
+  - title: v9.1.15.20970 (8028)
     details:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.15_64.apk
@@ -232,7 +297,7 @@ features:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.15.20865_64.apk
 
-  - title: v9.1.10 (7858)
+  - title: v9.1.10.20545 (7858)
     details:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.10_64.apk
@@ -242,7 +307,7 @@ features:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.10.20440_64.apk
 
-  - title: v9.1.5 (7688)
+  - title: v9.1.5.20120 (7688)
     details:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.5_64.apk
@@ -257,7 +322,7 @@ features:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.5.20015_64.apk
 
-  - title: v9.1.0 (7518)
+  - title: v9.1.0.19695 (7518)
     details:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.0_64.apk
@@ -267,7 +332,7 @@ features:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.0.19640_64.apk
 
-  - title: v9.0.95 (7368)
+  - title: v9.0.95.19320 (7368)
     details:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.95_64.apk
@@ -282,7 +347,7 @@ features:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.95.19265_64.apk
 
-  - title: v9.0.90 (7218)
+  - title: v9.0.90.18945 (7218)
     details:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.90_64.apk
@@ -292,7 +357,7 @@ features:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.90.18890_64.apk
 
-  - title: v9.0.85 (7068)
+  - title: v9.0.85.18570 (7068)
     details:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.85_64.apk
@@ -302,12 +367,12 @@ features:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.85.18515_64.apk
 
-  - title: v9.0.81 (6922)
+  - title: v9.0.81.18205 (6922)
     details:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.81_64.apk
 
-  - title: v9.0.80 (6918)
+  - title: v9.0.80.18195 (6918)
     details:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.80_64.apk
@@ -317,7 +382,7 @@ features:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.80.18140_64.apk
 
-  - title: v9.0.75 (6808)
+  - title: v9.0.75.17920 (6808)
     details:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.75_64.apk
@@ -332,12 +397,12 @@ features:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.75.17865_64.apk
 
-  - title: v9.0.71 (6702)
+  - title: v9.0.71.17655 (6702)
     details:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.71_64.apk
 
-  - title: v9.0.70 (6698)
+  - title: v9.0.70.17645 (6698)
     details:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.70_64.apk
@@ -347,7 +412,7 @@ features:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.70.17590_64.apk
 
-  - title: v9.0.65 (6588)
+  - title: v9.0.65.17370 (6588)
     details:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.65_64.apk
@@ -362,7 +427,7 @@ features:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.65.17315_64.apk
 
-  - title: v9.0.60 (6478)
+  - title: v9.0.60.17095 (6478)
     details:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.60_64.apk
@@ -382,12 +447,12 @@ features:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.60.17040_64.apk
 
-  - title: v9.0.56 (6372)
+  - title: v9.0.56.16830 (6372)
     details:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.56_64.apk
 
-  - title: v9.0.55 (6368)
+  - title: v9.0.55.16820 (6368)
     details:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.55_64.apk
@@ -402,7 +467,7 @@ features:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.55.16765_64.apk
 
-  - title: v9.0.50 (6258)
+  - title: v9.0.50.16545 (6258)
     details:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.50_64.apk
@@ -412,7 +477,7 @@ features:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.50.16490_64.apk
 
-  - title: v9.0.35 (6150)
+  - title: v9.0.35.16275 (6150)
     details:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.35_64.apk
@@ -427,7 +492,7 @@ features:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.35.16215_64.apk
 
-  - title: v9.0.30 (6038)
+  - title: v9.0.30.15995 (6038)
     details:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.30_64.apk
@@ -442,7 +507,7 @@ features:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.30.15940_64.apk
 
-  - title: v9.0.25 (5942)
+  - title: v9.0.25.15760 (5942)
     details:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.25_64.apk
@@ -457,7 +522,7 @@ features:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.25.15655_64.apk
 
-  - title: v9.0.20 (5844)
+  - title: v9.0.20.15515 (5844)
     details:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.20_64.apk
@@ -467,12 +532,12 @@ features:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.20.15360_64.apk
 
-  - title: v9.0.17 (5712)
+  - title: v9.0.17.15185 (5712)
     details:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.17_64.apk
 
-  - title: v9.0.15 (5626)
+  - title: v9.0.15.14970 (5626)
     details:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.15_64.apk
@@ -487,7 +552,7 @@ features:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.15.14815_64.apk
 
-  - title: v9.0.8 (5540)
+  - title: v9.0.8.14755 (5540)
     details:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.8_64.apk
@@ -497,7 +562,7 @@ features:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.8.14600_64.apk
 
-  - title: v9.0.0 (5282)
+  - title: v9.0.0.14110 (5282)
     details:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.0_64.apk
@@ -512,7 +577,7 @@ features:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.0.13955_64.apk
 
-  - title: v8.9.93 (5028)
+  - title: v8.9.93.13475 (5028)
     details:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_8.9.93_64.apk
@@ -527,7 +592,7 @@ features:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_8.9.93.13315_64.apk
 
-  - title: v8.9.90 (4938)
+  - title: v8.9.90.13250 (4938)
     details:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_8.9.90_64.apk
@@ -547,7 +612,7 @@ features:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_8.9.90.13095_64.apk
 
-  - title: v8.9.88 (4852)
+  - title: v8.9.88.13035 (4852)
     details:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_8.9.88_64.apk
@@ -562,7 +627,7 @@ features:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_8.9.88.12880_64.apk
 
-  - title: v8.9.85 (4766)
+  - title: v8.9.85.12820 (4766)
     details:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_8.9.85_64.apk
@@ -577,7 +642,7 @@ features:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_8.9.85.12650_64.apk
 
-  - title: v8.9.83 (4680)
+  - title: v8.9.83.12605 (4680)
     details:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_8.9.83_64.apk
@@ -592,7 +657,7 @@ features:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_8.9.83.12500_64.apk
 
-  - title: v8.9.80 (4614)
+  - title: v8.9.80.12440 (4614)
     details:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_8.9.80_64.apk
@@ -607,7 +672,7 @@ features:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_8.9.80.12335_64.apk
 
-  - title: v8.9.78 (4548)
+  - title: v8.9.78.12275 (4548)
     details:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_8.9.78_64.apk
@@ -622,12 +687,12 @@ features:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_8.9.78.12170_64.apk
 
-  - title: v8.9.76 (4484)
+  - title: v8.9.76.12115 (4484)
     details:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_8.9.76_64.apk
 
-  - title: v8.9.75 (4482)
+  - title: v8.9.75.12110 (4482)
     details:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_8.9.75_64.apk
@@ -637,7 +702,7 @@ features:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_8.9.75.12005_64.apk
 
-  - title: v8.9.73 (4416)
+  - title: v8.9.73.11945 (4416)
     details:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_8.9.73_64.apk
@@ -652,12 +717,12 @@ features:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_8.9.73.11790_64.apk
 
-  - title: v8.9.71 (4332)
+  - title: v8.9.71.11735 (4332)
     details:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_8.9.71_64.apk
 
-  - title: v8.9.70 (4330)
+  - title: v8.9.70.11730 (4330)
     details:
     linkText: 下载
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_8.9.70_64.apk
