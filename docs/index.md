@@ -7,18 +7,18 @@ hero:
   tagline: 随缘更新
 
 features:
-  - title: QQ
+  - title: QQVersion
     details: v9.3.25 ~ v8.9.58
     linkText: Open
-    link: /version/qq
+    link: /version/QQVersion
 
-  - title: Tim
+  - title: TimVersion
     details: v4.1.0 ~ v3.4.8
     linkText: Open
-    link: /version/tim
+    link: /version/TimVersion
 
-  - title: WeChat
+  - title: WeChatVersion
     details: v8.0.69 ~ v5.3.1
     linkText: Open
-    link: /version/wechat
+    link: /version/WeChatVersion
 ---
