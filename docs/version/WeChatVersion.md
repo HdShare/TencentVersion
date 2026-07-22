@@ -7,6 +7,71 @@ hero:
   tagline: 随缘更新
 
 features:
+  - title: v8.0.76_0x28004c31(3141)
+    details:
+    linkText: Download
+    link: https://dldir1v6.qq.com/weixin/android/weixin8076android3141_0x28004c31_arm64.apk
+
+  - title: v8.0.76_0x28004c30(3140)
+    details:
+    linkText: Download
+    link: https://dldir1v6.qq.com/weixin/android/weixin8076android3140_0x28004c30_arm64.apk
+
+  - title: v8.0.74_0x28004a36(3120)
+    details:
+    linkText: Download
+    link: https://dldir1v6.qq.com/weixin/android/weixin8074android3120_0x28004a36_arm64.apk
+
+  - title: v8.0.74_0x28004a35(3120)
+    details:
+    linkText: Download
+    link: https://dldir1v6.qq.com/weixin/android/weixin8074android3120_0x28004a35_arm64.apk
+
+  - title: v8.0.74_0x28004a34(3120)
+    details:
+    linkText: Download
+    link: https://dldir1v6.qq.com/weixin/android/weixin8074android3120_0x28004a34_arm64.apk
+
+  - title: v8.0.72_0x28004835(3100)
+    details:
+    linkText: Download
+    link: https://dldir1v6.qq.com/weixin/android/weixin8072android3100_0x28004835_arm64.apk
+
+  - title: v8.0.72_0x28004834(3100)
+    details:
+    linkText: Download
+    link: https://dldir1v6.qq.com/weixin/android/weixin8072android3100_0x28004834_arm64.apk
+
+  - title: v8.0.72_0x28004833(3100)
+    details:
+    linkText: Download
+    link: https://dldir1v6.qq.com/weixin/android/weixin8072android3100_0x28004833_arm64.apk
+
+  - title: v8.0.71_0x28004734(3080)
+    details:
+    linkText: Download
+    link: https://dldir1v6.qq.com/weixin/android/weixin8071android3080_0x28004734_arm64.apk
+
+  - title: v8.0.71_0x28004733(3080)
+    details:
+    linkText: Download
+    link: https://dldir1v6.qq.com/weixin/android/weixin8071android3080_0x28004733_arm64.apk
+
+  - title: v8.0.70_0x28004634(3060)
+    details:
+    linkText: Download
+    link: https://dldir1v6.qq.com/weixin/android/weixin8070android3060_0x28004634_arm64_1.apk
+
+  - title: v8.0.70_0x28004633(3060)
+    details:
+    linkText: Download
+    link: https://dldir1v6.qq.com/weixin/android/weixin8070android3060_0x28004633_arm64.apk
+
+  - title: v8.0.69_0x2800455a(3040)
+    details:
+    linkText: Download
+    link: https://dldir1v6.qq.com/weixin/android/weixin8069android3040_0x2800455a_arm64.apk
+
   - title: v8.0.69_0x28004530(3040)
     details:
     linkText: Download
@@ -346,6 +411,11 @@ features:
     details:
     linkText: Download
     link: https://dldir1.qq.com/weixin/android/weixin8041android2440.apk
+
+  - title: v8.0.41_0x28002910(2420)
+    details:
+    linkText: Download
+    link: https://dldir1.qq.com/weixin/android/weixin8041android2420_0x28002910.apk
 
   - title: v8.0.40(2420)
     details:
