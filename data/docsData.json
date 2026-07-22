@@ -1,0 +1,1738 @@
+{
+  "index": {
+    "hero": {
+      "name": "TencentVersion",
+      "text": "腾讯版本",
+      "tagline": "随缘更新"
+    }
+  },
+  "apps": [
+    {
+      "hero": {
+        "name": "QQVersion",
+        "text": "QQ版本",
+        "tagline": "随缘更新"
+      },
+      "versions": [
+        {
+          "name": "v9.3.25.38950(15220)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/9.3.25_a9d86b4594ac6bcb.apk"
+        },
+        {
+          "name": "v9.3.20.38525(15050)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/9.3.20_1e8e50a57667j4e5.apk"
+        },
+        {
+          "name": "v9.3.15.38100(14880)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/9.3.15_1e8e50a57667f3d4.apk"
+        },
+        {
+          "name": "v9.3.10.37675(14710)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/9.3.10_3b553a3ebc174e67.apk"
+        },
+        {
+          "name": "v9.3.5.37250(14540)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/9.3.5_3b553a3ebc173d54.apk"
+        },
+        {
+          "name": "v9.3.1.36845(14378)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/9.3.1_877e277185fb829c.apk"
+        },
+        {
+          "name": "v9.3.0.36825(14370)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/9.3.0_877e277185fb930b.apk"
+        },
+        {
+          "name": "v9.2.95.36400(14200)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/9.2.95_21c09b4d5784fa2d.apk"
+        },
+        {
+          "name": "v9.2.90.35975(14030)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/9.2.90_7ae1c0c9ae0b4318.apk"
+        },
+        {
+          "name": "v9.2.85.35550(13860)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/9.2.85_57fb3e89d866c586.apk"
+        },
+        {
+          "name": "v9.2.80.35125(13690)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/9.2.80_7c7d1008a4510c3d.apk"
+        },
+        {
+          "name": "v9.2.75.34700(13520)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/9.2.75_4d7bcd66f86be0eb.apk"
+        },
+        {
+          "name": "v9.2.70.34275(13350)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/9.2.70_1d091c25aaf1014e.apk"
+        },
+        {
+          "name": "v9.2.66.33870(13188)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/9.2.66_e25bd9cb26f8caca.apk"
+        },
+        {
+          "name": "v9.2.65.33850(13180)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/9.2.65_22189262a13f14f7.apk"
+        },
+        {
+          "name": "v9.2.60.33425(13010)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/9.2.60_2d027de571d58f90.apk"
+        },
+        {
+          "name": "v9.2.55.33000(12840)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/9.2.55_8ad932464eb5e30b.apk"
+        },
+        {
+          "name": "v9.2.50.32575(12670)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/9.2.50_ccff0d6304664ea9.apk"
+        },
+        {
+          "name": "v9.2.35.32150(12500)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/9.2.35_0981238b4dfded76.apk"
+        },
+        {
+          "name": "v9.2.30.31725(12330)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/9.2.30_b19fc44e0cae059f.apk"
+        },
+        {
+          "name": "v9.2.27.31300(12160)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/9.2.27_e4f9a7b3c1d2e5f6a8b9c0d1e2f3a4b5.apk"
+        },
+        {
+          "name": "v9.2.25.30450(11820)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/e4c1a9f3d8b72c01e6a5b3d9f821c0e4.apk"
+        },
+        {
+          "name": "v9.2.20.30025(11650)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.2.20_64.apk"
+        },
+        {
+          "name": "v9.2.15.29600(11480)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.2.15_64.apk"
+        },
+        {
+          "name": "v9.2.10.29175(11310)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.2.10_64.apk"
+        },
+        {
+          "name": "v9.2.5.28750(11140)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.2.5_64_HB2.apk"
+        },
+        {
+          "name": "v9.2.0.28325(10970)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.2.0_64.apk"
+        },
+        {
+          "name": "v9.1.97.27900(10800)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.97_64.apk"
+        },
+        {
+          "name": "v9.1.95.27050(10460)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.95_64.apk"
+        },
+        {
+          "name": "v9.1.92.26650(10300)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.92_64.apk"
+        },
+        {
+          "name": "v9.1.91.26645(10298)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.91_64.apk"
+        },
+        {
+          "name": "v9.1.90.26625(10290)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.90_64.apk"
+        },
+        {
+          "name": "v9.1.76.26090(10076)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.76_64_HB.apk"
+        },
+        {
+          "name": "v9.1.75.26070(10068)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.75_64.apk"
+        },
+        {
+          "name": "v9.1.71.25665(9906)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.71_64.apk"
+        },
+        {
+          "name": "v9.1.70.25645(9898)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.70_64.apk"
+        },
+        {
+          "name": "v9.1.67.25220(9728)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.67_64.apk"
+        },
+        {
+          "name": "v9.1.65.24795(9558)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.65_64.apk"
+        },
+        {
+          "name": "v9.1.65.24735(9534)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.65.24735_64.apk"
+        },
+        {
+          "name": "v9.1.65.24715(9526)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.65.24715_64.apk"
+        },
+        {
+          "name": "v9.1.65.24705(9522)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.65.24705_64.apk"
+        },
+        {
+          "name": "v9.1.60.24370(9388)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.60_64.apk"
+        },
+        {
+          "name": "v9.1.60.24275(9350)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.60.24275_64.apk"
+        },
+        {
+          "name": "v9.1.55.23945(9218)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.55_64.apk"
+        },
+        {
+          "name": "v9.1.55.23850(9180)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.55.23850_64.apk"
+        },
+        {
+          "name": "v9.1.52.23535(9054)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.52_64.apk"
+        },
+        {
+          "name": "v9.1.50.23520(9048)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.50_64.apk"
+        },
+        {
+          "name": "v9.1.35.22670(8708)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.35_64.apk"
+        },
+        {
+          "name": "v9.1.31.22255(8542)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.31_64.apk"
+        },
+        {
+          "name": "v9.1.30.22245(8538)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.30_64.apk"
+        },
+        {
+          "name": "v9.1.25.21820(8368)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.25_64.apk"
+        },
+        {
+          "name": "v9.1.25.21715(8326)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.25.21715_64.apk"
+        },
+        {
+          "name": "v9.1.20.21395(8198)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.20_64.apk"
+        },
+        {
+          "name": "v9.1.20.21290(8156)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.20.21290_64.apk"
+        },
+        {
+          "name": "v9.1.16.20980(8032)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.16_64.apk"
+        },
+        {
+          "name": "v9.1.15.20970(8028)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.15_64.apk"
+        },
+        {
+          "name": "v9.1.15.20875(7990)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.15.20875_64.apk"
+        },
+        {
+          "name": "v9.1.15.20865(7986)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.15.20865_64.apk"
+        },
+        {
+          "name": "v9.1.10.20545(7858)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.10_64.apk"
+        },
+        {
+          "name": "v9.1.10.20440(7816)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.10.20440_64.apk"
+        },
+        {
+          "name": "v9.1.5.20120(7688)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.5_64.apk"
+        },
+        {
+          "name": "v9.1.5.20030(7652)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.5.20030_64.apk"
+        },
+        {
+          "name": "v9.1.5.20015(7646)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.5.20015_64.apk"
+        },
+        {
+          "name": "v9.1.0.19695(7518)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.0_64.apk"
+        },
+        {
+          "name": "v9.1.0.19640(7496)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.0.19640_64.apk"
+        },
+        {
+          "name": "v9.0.95.19320(7368)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.95_64.apk"
+        },
+        {
+          "name": "v9.0.95.19275(7350)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.95.19275_64.apk"
+        },
+        {
+          "name": "v9.0.95.19265(7346)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.95.19265_64.apk"
+        },
+        {
+          "name": "v9.0.90.18945(7218)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.90_64.apk"
+        },
+        {
+          "name": "v9.0.90.18890(7196)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.90.18890_64.apk"
+        },
+        {
+          "name": "v9.0.85.18570(7068)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.85_64.apk"
+        },
+        {
+          "name": "v9.0.85.18515(7046)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.85.18515_64.apk"
+        },
+        {
+          "name": "v9.0.81.18205(6922)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.81_64.apk"
+        },
+        {
+          "name": "v9.0.80.18195(6918)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.80_64.apk"
+        },
+        {
+          "name": "v9.0.80.18140(6896)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.80.18140_64.apk"
+        },
+        {
+          "name": "v9.0.75.17920(6808)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.75_64.apk"
+        },
+        {
+          "name": "v9.0.75.17880(6792)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.75.17880_64.apk"
+        },
+        {
+          "name": "v9.0.75.17865(6786)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.75.17865_64.apk"
+        },
+        {
+          "name": "v9.0.71.17655(6702)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.71_64.apk"
+        },
+        {
+          "name": "v9.0.70.17645(6698)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.70_64.apk"
+        },
+        {
+          "name": "v9.0.70.17590(6676)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.70.17590_64.apk"
+        },
+        {
+          "name": "v9.0.65.17370(6588)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.65_64.apk"
+        },
+        {
+          "name": "v9.0.65.17320(6568)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.65.17320_64.apk"
+        },
+        {
+          "name": "v9.0.65.17315(6566)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.65.17315_64.apk"
+        },
+        {
+          "name": "v9.0.60.17095(6478)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.60_64.apk"
+        },
+        {
+          "name": "v9.0.60.17050(6460)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.60.17050_64.apk"
+        },
+        {
+          "name": "v9.0.60.17045(6458)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.60.17045_64.apk"
+        },
+        {
+          "name": "v9.0.60.17040(6456)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.60.17040_64.apk"
+        },
+        {
+          "name": "v9.0.56.16830(6372)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.56_64.apk"
+        },
+        {
+          "name": "v9.0.55.16820(6368)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.55_64.apk"
+        },
+        {
+          "name": "v9.0.55.16770(6348)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.55.16770_64.apk"
+        },
+        {
+          "name": "v9.0.55.16765(6346)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.55.16765_64.apk"
+        },
+        {
+          "name": "v9.0.50.16545(6258)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.50_64.apk"
+        },
+        {
+          "name": "v9.0.50.16490(6236)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.50.16490_64.apk"
+        },
+        {
+          "name": "v9.0.35.16275(6150)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.35_64.apk"
+        },
+        {
+          "name": "v9.0.35.16220(6128)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.35.16220_64.apk"
+        },
+        {
+          "name": "v9.0.35.16215(6126)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.35.16215_64.apk"
+        },
+        {
+          "name": "v9.0.30.15995(6038)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.30_64.apk"
+        },
+        {
+          "name": "v9.0.30.15945(6016)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.30.15945_64.apk"
+        },
+        {
+          "name": "v9.0.30.15940(6014)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.30.15940_64.apk"
+        },
+        {
+          "name": "v9.0.25.15760(5942)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.25_64.apk"
+        },
+        {
+          "name": "v9.0.25.15660(5902)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.25.15660_64.apk"
+        },
+        {
+          "name": "v9.0.25.15655(5900)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.25.15655_64.apk"
+        },
+        {
+          "name": "v9.0.20.15515(5844)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.20_64.apk"
+        },
+        {
+          "name": "v9.0.20.15360(5782)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.20.15360_64.apk"
+        },
+        {
+          "name": "v9.0.17.15185(5712)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.17_64.apk"
+        },
+        {
+          "name": "v9.0.15.14970(5626)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.15_64.apk"
+        },
+        {
+          "name": "v9.0.15.14820(5566)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.15.14820_64.apk"
+        },
+        {
+          "name": "v9.0.15.14815(5564)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.15.14815_64.apk"
+        },
+        {
+          "name": "v9.0.8.14755(5540)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.8_64.apk"
+        },
+        {
+          "name": "v9.0.8.14600(5478)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.8.14600_64.apk"
+        },
+        {
+          "name": "v9.0.0.14110(5282)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.0_64.apk"
+        },
+        {
+          "name": "v9.0.0.13960(5222)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.0.13960_64.apk"
+        },
+        {
+          "name": "v9.0.0.13955(5220)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.0.13955_64.apk"
+        },
+        {
+          "name": "v8.9.93.13475(5028)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_8.9.93_64.apk"
+        },
+        {
+          "name": "v8.9.93.13320(4966)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_8.9.93.13320_64.apk"
+        },
+        {
+          "name": "v8.9.93.13315(4964)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_8.9.93.13315_64.apk"
+        },
+        {
+          "name": "v8.9.90.13250(4938)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_8.9.90_64.apk"
+        },
+        {
+          "name": "v8.9.90.13105(4880)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_8.9.90.13105_64.apk"
+        },
+        {
+          "name": "v8.9.90.13100(4878)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_8.9.90.13100_64.apk"
+        },
+        {
+          "name": "v8.9.90.13095(4876)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_8.9.90.13095_64.apk"
+        },
+        {
+          "name": "v8.9.88.13035(4852)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_8.9.88_64.apk"
+        },
+        {
+          "name": "v8.9.88.12890(4794)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_8.9.88.12890_64.apk"
+        },
+        {
+          "name": "v8.9.88.12880(4790)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_8.9.88.12880_64.apk"
+        },
+        {
+          "name": "v8.9.85.12820(4766)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_8.9.85_64.apk"
+        },
+        {
+          "name": "v8.9.85.12665(4704)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_8.9.85.12665_64.apk"
+        },
+        {
+          "name": "v8.9.85.12650(4698)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_8.9.85.12650_64.apk"
+        },
+        {
+          "name": "v8.9.83.12605(4680)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_8.9.83_64.apk"
+        },
+        {
+          "name": "v8.9.83.12580(4670)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_8.9.83.12580_64.apk"
+        },
+        {
+          "name": "v8.9.83.12500(4638)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_8.9.83.12500_64.apk"
+        },
+        {
+          "name": "v8.9.80.12440(4614)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_8.9.80_64.apk"
+        },
+        {
+          "name": "v8.9.80.12340(4574)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_8.9.80.12340_64.apk"
+        },
+        {
+          "name": "v8.9.80.12335(4572)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_8.9.80.12335_64.apk"
+        },
+        {
+          "name": "v8.9.78.12275(4548)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_8.9.78_64.apk"
+        },
+        {
+          "name": "v8.9.78.12180(4510)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_8.9.78.12180_64.apk"
+        },
+        {
+          "name": "v8.9.78.12170(4506)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_8.9.78.12170_64.apk"
+        },
+        {
+          "name": "v8.9.76.12115(4484)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_8.9.76_64.apk"
+        },
+        {
+          "name": "v8.9.75.12110(4482)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_8.9.75_64.apk"
+        },
+        {
+          "name": "v8.9.75.12005(4440)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_8.9.75.12005_64.apk"
+        },
+        {
+          "name": "v8.9.73.11945(4416)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_8.9.73_64.apk"
+        },
+        {
+          "name": "v8.9.73.11795(4356)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_8.9.73.11795_64.apk"
+        },
+        {
+          "name": "v8.9.73.11790(4354)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_8.9.73.11790_64.apk"
+        },
+        {
+          "name": "v8.9.71.11735(4332)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_8.9.71_64.apk"
+        },
+        {
+          "name": "v8.9.70.11730(4330)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_8.9.70_64.apk"
+        },
+        {
+          "name": "v8.9.70.11635(4292)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_8.9.70.11635_64.apk"
+        },
+        {
+          "name": "v8.9.70.11630(4290)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_8.9.70.11630_64.apk"
+        },
+        {
+          "name": "v8.9.70.11625(4288)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_8.9.70.11625_64.apk"
+        },
+        {
+          "name": "v8.9.63.11390(4194)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_8.9.63.11390_64.apk"
+        },
+        {
+          "name": "v8.9.63.11380(4190)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_8.9.63.11380_64.apk"
+        },
+        {
+          "name": "v8.9.63.11375(4188)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_8.9.63.11375_64.apk"
+        },
+        {
+          "name": "v8.9.63.11370(4186)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_8.9.63.11370_64.apk"
+        },
+        {
+          "name": "v8.9.63.11365(4184)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_8.9.63.11365_64.apk"
+        },
+        {
+          "name": "v8.9.63.11360(4182)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_8.9.63.11360_64.apk"
+        },
+        {
+          "name": "v8.9.63.11355(4180)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_8.9.63.11355_64.apk"
+        },
+        {
+          "name": "v8.9.63.11345(4176)",
+          "detail": "The First NT Version",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_8.9.63.11345_64.apk"
+        },
+        {
+          "name": "v8.9.58(4106)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_8.9.58_64.apk"
+        }
+      ]
+    },
+    {
+      "hero": {
+        "name": "TimVersion",
+        "text": "Tim版本",
+        "tagline": "随缘更新"
+      },
+      "versions": [
+        {
+          "name": "v4.1.0(4050)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/tim_4.1.0.4050.apk"
+        },
+        {
+          "name": "v4.0.99(4030)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/tim_4.0.99.4030.apk"
+        },
+        {
+          "name": "v4.0.98(4012)",
+          "detail": "",
+          "url": "https://tim-1258344701.shiply-cdn.qq.com/apprelease/gray/ad6b501b0e/prod/1734512765/tim_4.0.98.4012_r2e3d9799_64_t2024-12-18_v4012_GuanWang_537264175_cid2017_release-signed.apk"
+        },
+        {
+          "name": "v4.0.97(4011)",
+          "detail": "",
+          "url": "https://tim-1258344701.shiply-cdn.qq.com/apprelease/gray/ad6b501b0e/prod/1733453577/tim_4.0.97.4011_r3110ef2b_64_t2024-12-05_v4011_GuanWang_537263469_cid2017_release-signed.apk"
+        },
+        {
+          "name": "v4.0.96(4010)",
+          "detail": "",
+          "url": "https://tim-1258344701.shiply-cdn.qq.com/apprelease/gray/ad6b501b0e/prod/1732893586/tim_4.0.96.4010_r6c784d54_64_t2024-11-29_v4010_GuanWang_537261131_cid2017_release-signed.apk"
+        },
+        {
+          "name": "v4.0.95(4008)",
+          "detail": "",
+          "url": "https://tim-1258344701.shiply-cdn.qq.com/apprelease/gray/ad6b501b0e/prod/1732245378/tim_4.0.95.4008_r3b8db658_64_t2024-11-19_v4008_GuanWang_537249218_cid2017_release-signed.apk"
+        },
+        {
+          "name": "v4.0.95(4002)",
+          "detail": "The First NT Version",
+          "url": "https://tim-1258344701.shiply-cdn.qq.com/apprelease/gray/ad6b501b0e/prod/1730484209/tim_4.0.95.4002_rcf2b138c_64_t2024-11-01_v4002_GrayOne_537249285_cid0_release-signed.apk"
+        },
+        {
+          "name": "v3.5.8(1358)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/TIM_3.5.8.3228_64.apk"
+        },
+        {
+          "name": "v3.5.7(1348)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/TIM_3.5.7.3218_64.apk"
+        },
+        {
+          "name": "v3.5.6(1338)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/TIM_3.5.6.3208_64.apk"
+        },
+        {
+          "name": "v3.5.5(1328)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/tim_3.5.5.3198_64.apk"
+        },
+        {
+          "name": "v3.5.2(1308)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/tim_3.5.2.3178_537162285_64.apk"
+        },
+        {
+          "name": "v3.5.1(1298)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/tim_3.5.1.3168_537150355_64.apk"
+        },
+        {
+          "name": "v3.5.0(1288)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/tim_3.5.0.3148_537143920_64.apk"
+        },
+        {
+          "name": "v3.5.0(1278)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/tim_3.5.0.3138_537142492_64.apk"
+        },
+        {
+          "name": "v3.4.9(1268)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/tim_3.4.9.3128_537138342_64.apk"
+        },
+        {
+          "name": "v3.4.8(1258)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/tim_3.4.8.3118_537129528_64.apk"
+        },
+        {
+          "name": "v3.4.8(1248)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/tim_3.4.8.3108_537129495_64.apk"
+        }
+      ]
+    },
+    {
+      "hero": {
+        "name": "WeChatVersion",
+        "text": "微信版本",
+        "tagline": "随缘更新"
+      },
+      "versions": [
+        {
+          "name": "v8.0.69_0x28004530(3040)",
+          "detail": "",
+          "url": "https://dldir1v6.qq.com/weixin/android/weixin8069android3040_0x28004530_arm64_1.apk"
+        },
+        {
+          "name": "v8.0.68_0x28004434(3020)",
+          "detail": "",
+          "url": "https://dldir1v6.qq.com/weixin/android/weixin8068android3020_0x28004434_arm64.apk"
+        },
+        {
+          "name": "v8.0.68_0x28004433(3020)",
+          "detail": "",
+          "url": "https://dldir1v6.qq.com/weixin/android/weixin8068android3020_0x28004433_arm64.apk"
+        },
+        {
+          "name": "v8.0.68_0x28004432(3020)",
+          "detail": "",
+          "url": "https://dldir1v6.qq.com/weixin/android/weixin8068android3020_0x28004432_arm64.apk"
+        },
+        {
+          "name": "v8.0.67_0x28004333(3000)",
+          "detail": "",
+          "url": "https://dldir1v6.qq.com/weixin/android/weixin8067android3000_0x28004333_arm64.apk"
+        },
+        {
+          "name": "v8.0.67_0x28004332(3000)",
+          "detail": "",
+          "url": "https://dldir1v6.qq.com/weixin/android/weixin8067android3000_0x28004332_arm64.apk"
+        },
+        {
+          "name": "v8.0.66_0x28004234(2980)",
+          "detail": "",
+          "url": "https://dldir1v6.qq.com/weixin/android/weixin8066android2980_0x28004234_arm64.apk"
+        },
+        {
+          "name": "v8.0.66_0x28004233(2980)",
+          "detail": "",
+          "url": "https://dldir1v6.qq.com/weixin/android/weixin8066android2980_0x28004233_arm64_1.apk"
+        },
+        {
+          "name": "v8.0.65_0x28004137(2960)",
+          "detail": "",
+          "url": "https://dldir1v6.qq.com/weixin/android/weixin8065android2960_0x28004137_arm64.apk"
+        },
+        {
+          "name": "v8.0.64_0x28004033(2940)",
+          "detail": "",
+          "url": "https://dldir1v6.qq.com/weixin/android/weixin8064android2940_0x28004033_arm64_1.apk"
+        },
+        {
+          "name": "v8.0.63_0x28003f33(2920)",
+          "detail": "",
+          "url": "https://dldir1v6.qq.com/weixin/android/weixin8063android2920_0x28003f33_arm64.apk"
+        },
+        {
+          "name": "v8.0.63_0x28003f32(2920)",
+          "detail": "",
+          "url": "https://dldir1v6.qq.com/weixin/android/weixin8063android2920_0x28003f32_arm64.apk"
+        },
+        {
+          "name": "v8.0.62_0x28003e39(2900)",
+          "detail": "",
+          "url": "https://dldir1v6.qq.com/weixin/android/weixin8062android2900_0x28003e39_arm64.apk"
+        },
+        {
+          "name": "v8.0.61_0x28003d34(2880)",
+          "detail": "",
+          "url": "https://dldir1v6.qq.com/weixin/android/weixin8061android2880_0x28003d34_arm64.apk"
+        },
+        {
+          "name": "v8.0.60_0x28003c3f(2860)",
+          "detail": "",
+          "url": "https://dldir1v6.qq.com/weixin/android/weixin8060android2860_0x28003c3f_arm64.apk"
+        },
+        {
+          "name": "v8.0.60_0x28003c39(2860)",
+          "detail": "",
+          "url": "https://dldir1v6.qq.com/weixin/android/weixin8060android2860_0x28003c39_arm64.apk"
+        },
+        {
+          "name": "v8.0.60_0x28003c38(2860)",
+          "detail": "",
+          "url": "https://dldir1v6.qq.com/weixin/android/weixin8060android2860_0x28003c38_arm64.apk"
+        },
+        {
+          "name": "v8.0.58_0x28003a3f(2841)",
+          "detail": "",
+          "url": "http://dldir1.qq.com/weixin/android/weixin8058android2841_0x28003a3f_arm64.apk"
+        },
+        {
+          "name": "v8.0.58_0x28003a35(2841)",
+          "detail": "",
+          "url": "https://dldir1v6.qq.com/weixin/android/weixin8058android2841_0x28003a35_arm64.apk"
+        },
+        {
+          "name": "v8.0.58_0x28003a34(2840)",
+          "detail": "",
+          "url": "https://dldir1v6.qq.com/weixin/android/weixin8058android2840_0x28003a34_arm64.apk"
+        },
+        {
+          "name": "v8.0.58_0x28003a33(2840)",
+          "detail": "",
+          "url": "https://dldir1v6.qq.com/weixin/android/weixin8058android2840_0x28003a33_arm64.apk"
+        },
+        {
+          "name": "v8.0.57_0x28003933(2820)",
+          "detail": "",
+          "url": "https://dldir1v6.qq.com/weixin/android/weixin8057android2820_0x28003933_arm64.apk"
+        },
+        {
+          "name": "v8.0.57_0x28003932(2820)",
+          "detail": "",
+          "url": "https://dldir1v6.qq.com/weixin/android/weixin8057android2820_0x28003932_arm64.apk"
+        },
+        {
+          "name": "v8.0.56_0x280038f8_2(2800)",
+          "detail": "",
+          "url": "https://dldir1v6.qq.com/weixin/android/weixin8056android2800_0x280038f8_arm64_2.apk"
+        },
+        {
+          "name": "v8.0.56_0x280038f8_1(2800)",
+          "detail": "",
+          "url": "https://dldir1v6.qq.com/weixin/android/weixin8056android2800_0x280038f8_arm64_1.apk"
+        },
+        {
+          "name": "v8.0.56_0x2800383c(2800)",
+          "detail": "",
+          "url": "https://dldir1v6.qq.com/weixin/android/weixin8056android2800_0x2800383c_arm64.apk"
+        },
+        {
+          "name": "v8.0.56_0x2800383a(2800)",
+          "detail": "",
+          "url": "https://dldir1v6.qq.com/weixin/android/weixin8056android2800_0x2800383a_arm64.apk"
+        },
+        {
+          "name": "v8.0.56_0x28003838(2800)",
+          "detail": "",
+          "url": "https://dldir1v6.qq.com/weixin/android/weixin8056android2800_0x28003838_arm64.apk"
+        },
+        {
+          "name": "v8.0.56_0x28003833(2800)",
+          "detail": "",
+          "url": "https://dldir1v6.qq.com/weixin/android/weixin8056android2800_0x28003833_arm64.apk"
+        },
+        {
+          "name": "v8.0.56_0x28003832(2800)",
+          "detail": "",
+          "url": "https://dldir1v6.qq.com/weixin/android/weixin8056android2800_0x28003832_arm64.apk"
+        },
+        {
+          "name": "v8.0.56_0x28003734(2780)",
+          "detail": "",
+          "url": "https://dldir1v6.qq.com/weixin/android/weixin8055android2780_0x28003734_arm64.apk"
+        },
+        {
+          "name": "v8.0.55_0x28003733(2780)",
+          "detail": "",
+          "url": "https://dldir1v6.qq.com/weixin/android/weixin8055android2780_0x28003733_arm64.apk"
+        },
+        {
+          "name": "v8.0.54_0x28003636(2760)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin8054android2760_0x28003636_arm64.apk"
+        },
+        {
+          "name": "v8.0.54_0x28003635(2760)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin8054android2760_0x28003635_arm64_1.apk"
+        },
+        {
+          "name": "v8.0.54_0x28003634(2760)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin8054android2760_0x28003634_arm64.apk"
+        },
+        {
+          "name": "v8.0.53_0x28003533(2740)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin8053android2740_0x28003533_arm64.apk"
+        },
+        {
+          "name": "v8.0.53_0x28003532(2740)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin8053android2740_0x28003532_arm64.apk"
+        },
+        {
+          "name": "v8.0.51_0x28003334(2720)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin8051android2720_0x28003334_arm64.apk"
+        },
+        {
+          "name": "v8.0.51_0x28003333(2720)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin8051android2720_0x28003333_arm64.apk"
+        },
+        {
+          "name": "v8.0.51_0x28003332(2720)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin8051android2720_0x28003332_arm64.apk"
+        },
+        {
+          "name": "v8.0.50_0x28003294(2701)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin8050android2701_0x28003294_arm64.apk"
+        },
+        {
+          "name": "v8.0.50_0x2800323e(2701)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin8050android2701_0x2800323e_arm64.apk"
+        },
+        {
+          "name": "v8.0.50_0x2800323d(2701)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin8050android2701_0x2800323d_arm64.apk"
+        },
+        {
+          "name": "v8.0.50_0x2800323c(2701)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin8050android2701_0x2800323c_arm64.apk"
+        },
+        {
+          "name": "v8.0.50_0x280032d2(2700)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin8050android2700_0x280032d2_arm64.apk"
+        },
+        {
+          "name": "v8.0.50_0x2800323c(2700)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin8050android2700_0x2800323c_arm64.apk"
+        },
+        {
+          "name": "v8.0.50_0x2800323c(2620)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin8050android2620_0x2800323c_arm64.apk"
+        },
+        {
+          "name": "v8.0.49_0x2800318a(2600)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin8049android2600_0x2800318a_arm64.apk"
+        },
+        {
+          "name": "v8.0.49_0x28003189(2600)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin8049android2600_0x28003189_arm64.apk"
+        },
+        {
+          "name": "v8.0.49_0x2800313d(2600)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin8049android2600_0x2800313d_arm64.apk"
+        },
+        {
+          "name": "v8.0.49_0x28003133(2600)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin8049android2600_0x28003133_arm64.apk"
+        },
+        {
+          "name": "v8.0.48_0x28003036(2580)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin8048android2580_0x28003036_arm64.apk"
+        },
+        {
+          "name": "v8.0.48_0x28003035(2580)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin8048android2580_0x28003035_arm64.apk"
+        },
+        {
+          "name": "v8.0.48_0x28003033(2580)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin8048android2580_0x28003033_arm64.apk"
+        },
+        {
+          "name": "v8.0.47_0x28002f36(2560)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin8047android2560_0x28002f36_arm64.apk"
+        },
+        {
+          "name": "v8.0.47_0x28002f30(2560)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin8047android2560_0x28002f30_arm64.apk"
+        },
+        {
+          "name": "v8.0.46_0x28002e37(2540)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin8046android2540_0x28002e37_arm64.apk"
+        },
+        {
+          "name": "v8.0.46_0x28002e34(2540)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin8046android2540_0x28002e34_arm64.apk"
+        },
+        {
+          "name": "v8.0.46_0x28002e33(2540)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin8046android2540_0x28002e33_arm64.apk"
+        },
+        {
+          "name": "v8.0.45_0x28002d34(2521)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin8045android2521_0x28002d34_arm64.apk"
+        },
+        {
+          "name": "v8.0.45_0x28002d33(2520)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin8045android2520_0x28002d33_arm64.apk"
+        },
+        {
+          "name": "v8.0.44_0x28002c3f(2502)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin8044android2502_0x28002c3f_arm64.apk"
+        },
+        {
+          "name": "v8.0.44_0x28002c36(2502)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin8044android2502_0x28002c36_arm64.apk"
+        },
+        {
+          "name": "v8.0.44_0x28002c35(2501)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin8044android2501_0x28002c35_arm64.apk"
+        },
+        {
+          "name": "v8.0.44_0x28002c34(2500)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin8044android2500_0x28002c34_arm64.apk"
+        },
+        {
+          "name": "v8.0.43_0x28002b38(2480)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin8043android2480_0x28002b38_arm64_1.apk"
+        },
+        {
+          "name": "v8.0.42(2460)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin8042android2460.apk"
+        },
+        {
+          "name": "v8.0.41(2440)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin8041android2440.apk"
+        },
+        {
+          "name": "v8.0.40(2420)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin8040android2420.apk"
+        },
+        {
+          "name": "v8.0.38(2400)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin8038android2400.apk"
+        },
+        {
+          "name": "v8.0.37(2380)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin8037android2380.apk"
+        },
+        {
+          "name": "v8.0.35(2360)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin8035android2360.apk"
+        },
+        {
+          "name": "v8.0.34(2340)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin8034android2340.apk"
+        },
+        {
+          "name": "v8.0.33(2320)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin8033android2320.apk"
+        },
+        {
+          "name": "v8.0.32(2300)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin8032android2300.apk"
+        },
+        {
+          "name": "v8.0.31(2280)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin8031android2280.apk"
+        },
+        {
+          "name": "v8.0.30(2260)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin8030android2260.apk"
+        },
+        {
+          "name": "v8.0.28(2240)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin8028android2240.apk"
+        },
+        {
+          "name": "v8.0.27(2220)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin8027android2220.apk"
+        },
+        {
+          "name": "v8.0.25(2200)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin8025android2200.apk"
+        },
+        {
+          "name": "v8.0.24(2180)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin8024android2180.apk"
+        },
+        {
+          "name": "v8.0.23(2160)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin8023android2160.apk"
+        },
+        {
+          "name": "v8.0.22(2140)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin8022android2140.apk"
+        },
+        {
+          "name": "v8.0.21(2120)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin8021android2120.apk"
+        },
+        {
+          "name": "v8.0.20(2100)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin8020android2100.apk"
+        },
+        {
+          "name": "v8.0.19(2080)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin8019android2080.apk"
+        },
+        {
+          "name": "v8.0.18(2060)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin8018android2060.apk"
+        },
+        {
+          "name": "v8.0.16(2040)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin8016android2040.apk"
+        },
+        {
+          "name": "v8.0.15(2020)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin8015android2020.apk"
+        },
+        {
+          "name": "v8.0.14(2000)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin8014android2000.apk"
+        },
+        {
+          "name": "v8.0.11(1980)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin8011android1980.apk"
+        },
+        {
+          "name": "v8.0.10(1960)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin8010android1960.apk"
+        },
+        {
+          "name": "v8.0.9(1940)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin809android1940.apk"
+        },
+        {
+          "name": "v8.0.7(1920)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin807android1920.apk"
+        },
+        {
+          "name": "v8.0.6(1900)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin806android1900.apk"
+        },
+        {
+          "name": "v8.0.3(1880)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin803android1880.apk"
+        },
+        {
+          "name": "v8.0.2(1860)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin802android1860.apk"
+        },
+        {
+          "name": "v8.0.1(1840)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin801android1840.apk"
+        },
+        {
+          "name": "v8.0.0(1840)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin800android1840.apk"
+        },
+        {
+          "name": "v7.0.22(1820)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin7022android1820.apk"
+        },
+        {
+          "name": "v7.0.21(1800)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin7021android1800.apk"
+        },
+        {
+          "name": "v7.0.20(1780)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin7020android1780.apk"
+        },
+        {
+          "name": "v7.0.19(1760)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin7019android1760.apk"
+        },
+        {
+          "name": "v7.0.18(1740)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin7018android1740.apk"
+        },
+        {
+          "name": "v7.0.17(1720)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin7017android1720.apk"
+        },
+        {
+          "name": "v7.0.16(1700)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin7016android1700.apk"
+        },
+        {
+          "name": "v7.0.15(1680)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin7015android1680.apk"
+        },
+        {
+          "name": "v7.0.14(1660)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin7014android1660.apk"
+        },
+        {
+          "name": "v7.0.13(1640)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin7013android1640.apk"
+        },
+        {
+          "name": "v7.0.12(1620)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin7012android1620.apk"
+        },
+        {
+          "name": "v7.0.11(1600)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin7011android1600.apk"
+        },
+        {
+          "name": "v7.0.10(1580)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin7010android1580.apk"
+        },
+        {
+          "name": "v7.0.9(1560)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin709android1560.apk"
+        },
+        {
+          "name": "v7.0.8(1540)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin708android1540.apk"
+        },
+        {
+          "name": "v7.0.7(1520)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin707android1520.apk"
+        },
+        {
+          "name": "v7.0.6(1460)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin706android1460.apk"
+        },
+        {
+          "name": "v7.0.5(1440)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin705android1440.apk"
+        },
+        {
+          "name": "v7.0.4(1420)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin704android1420.apk"
+        },
+        {
+          "name": "v7.0.3(1400)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin703android1400.apk"
+        },
+        {
+          "name": "v7.0.0(1380)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin700android1380.apk"
+        },
+        {
+          "name": "v6.7.3(1360)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin673android1360.apk"
+        },
+        {
+          "name": "v6.7.2(1340)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin672android1340.apk"
+        },
+        {
+          "name": "v6.6.7(1320)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin667android1320.apk"
+        },
+        {
+          "name": "v6.6.6(1300)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin666android1300.apk"
+        },
+        {
+          "name": "v6.6.5(1280)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin665android1280.apk"
+        },
+        {
+          "name": "v6.6.3(1260)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin663android1260.apk"
+        },
+        {
+          "name": "v6.6.2(1240)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin662android1240.apk"
+        },
+        {
+          "name": "v6.6.1(1220)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin661android1220.apk"
+        },
+        {
+          "name": "v6.6.0(1200)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin660android1200.apk"
+        },
+        {
+          "name": "v6.5.23(1180)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin6523android1180.apk"
+        },
+        {
+          "name": "v6.5.22(1160)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin6522android1160.apk"
+        },
+        {
+          "name": "v6.5.19(1140)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin6519android1140.apk"
+        },
+        {
+          "name": "v6.5.16(1120)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin6516android1120.apk"
+        },
+        {
+          "name": "v6.5.13(1080)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin6513android1080.apk"
+        },
+        {
+          "name": "v6.5.10(1080)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin6510android1080.apk"
+        },
+        {
+          "name": "v6.5.8(1060)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin658android1060.apk"
+        },
+        {
+          "name": "v6.5.7(1040)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin657android1040.apk"
+        },
+        {
+          "name": "v6.5.6(1020)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin656android1020.apk"
+        },
+        {
+          "name": "v6.5.4(1000)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin654android1000.apk"
+        },
+        {
+          "name": "v6.5.3(980)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin653android980.apk"
+        },
+        {
+          "name": "v6.3.32(960)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin6332android960.apk"
+        },
+        {
+          "name": "v6.3.31(940)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin6331android940.apk"
+        },
+        {
+          "name": "v6.3.30(920)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin6330android920.apk"
+        },
+        {
+          "name": "v6.3.28(900)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin6328android900.apk"
+        },
+        {
+          "name": "v6.3.27(880)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin6327android880.apk"
+        },
+        {
+          "name": "v6.3.25(840)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin6325android840.apk"
+        },
+        {
+          "name": "v6.3.23(840)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin6323android840.apk"
+        },
+        {
+          "name": "v6.3.22(820)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin6322android820.apk"
+        },
+        {
+          "name": "v6.3.18(800)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin6318android800.apk"
+        },
+        {
+          "name": "v6.3.16(780)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin6316android780.apk"
+        },
+        {
+          "name": "v6.3.15(760)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin6315android760.apk"
+        },
+        {
+          "name": "v6.3.13(740)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin6313android740.apk"
+        },
+        {
+          "name": "v6.3.11(720)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin6311android720.apk"
+        },
+        {
+          "name": "v6.3.9(700)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin639android700.apk"
+        },
+        {
+          "name": "v6.3.8(680)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin638android680.apk"
+        },
+        {
+          "name": "v6.3.7(660)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin637android660.apk"
+        },
+        {
+          "name": "v6.3.5(640)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin635android640.apk"
+        },
+        {
+          "name": "v6.2.5(620)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin625android620.apk"
+        },
+        {
+          "name": "v6.2.4(600)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin624android600.apk"
+        },
+        {
+          "name": "v6.2.2(580)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin622android580.apk"
+        },
+        {
+          "name": "v6.2.0(560)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin620android560.apk"
+        },
+        {
+          "name": "v6.1.0(540)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin610android540.apk"
+        },
+        {
+          "name": "v6.0.2(520)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin602android520.apk"
+        },
+        {
+          "name": "v6.0.0(501)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin600android501.apk"
+        },
+        {
+          "name": "v5.4.0(480)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin540android480.apk"
+        },
+        {
+          "name": "v5.3.1(460)",
+          "detail": "",
+          "url": "https://dldir1.qq.com/weixin/android/weixin531android460.apk"
+        }
+      ]
+    }
+  ]
+}

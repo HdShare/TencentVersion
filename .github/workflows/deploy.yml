@@ -6,7 +6,7 @@ on:
     paths:
       - ".github/scripts/generate.js"
       - ".github/workflows/deploy.yml"
-      - "data/version.json"
+      - "data/docsData.json"
       - "docs/.vitepress/**"
       - "package.json"
       - "package-lock.json"
