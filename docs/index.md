@@ -8,17 +8,17 @@ hero:
 
 features:
   - title: QQVersion
-    details: v9.3.25 ~ v8.9.58
+    details: "v9.3.25.38950(15220) ~ v8.9.58(4106)"
     linkText: Open
     link: /version/QQVersion
 
   - title: TimVersion
-    details: v4.1.0 ~ v3.4.8
+    details: "v4.1.0(4050) ~ v3.4.8(1248)"
     linkText: Open
     link: /version/TimVersion
 
   - title: WeChatVersion
-    details: v8.0.69 ~ v5.3.1
+    details: "v8.0.69_0x28004530(3040) ~ v5.3.1(460)"
     linkText: Open
     link: /version/WeChatVersion
 ---
