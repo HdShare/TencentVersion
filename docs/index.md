@@ -8,7 +8,7 @@ hero:
 
 features:
   - title: QQVersion
-    details: "v9.3.30.38375(15390) ~ v8.9.58(4106)"
+    details: "v9.3.35.39800(15560) ~ v8.9.58(4106)"
     linkText: Open
     link: /version/QQVersion
 
