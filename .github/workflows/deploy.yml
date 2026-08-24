@@ -2,7 +2,7 @@ name: Generate Docs and Deploy Pages
 
 on:
   push:
-    branches: [main]
+    branches: [ master ]
     paths:
       - ".github/scripts/generate.js"
       - ".github/workflows/deploy.yml"
@@ -41,7 +41,7 @@ jobs:
         run: npm ci
 
       - name: Setup Pages
-        uses: actions/configure-pages@v4
+        uses: actions/configure-pages@v5
 
       - name: Build VitePress
         run: npm run docs:build
@@ -56,7 +56,7 @@ jobs:
             echo "No changes to commit"
           else
             git commit -m "文档: 构建版本列表文档"
-            git push origin HEAD:main
+            git push origin HEAD:master
           fi
 
       - name: Upload Artifact
@@ -71,8 +71,7 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     needs: generate-docs
     runs-on: ubuntu-latest
-    name: Deploy
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5
