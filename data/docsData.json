@@ -15,6 +15,11 @@
       },
       "versions": [
         {
+          "name": "v9.3.50.40225(15730)",
+          "detail": "",
+          "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/9.3.50_287766897f4a7ec5.apk"
+        },
+        {
           "name": "v9.3.35.39800(15560)",
           "detail": "",
           "url": "https://downv6.qq.com/qqweb/QQ_1/android_apk/9.3.35_c8b6508666f45fb7.apk"
@@ -912,6 +917,11 @@
         "tagline": "随缘更新"
       },
       "versions": [
+        {
+          "name": "v8.0.77_0x28004d30(3160)",
+          "detail": "",
+          "url": "https://dldir1v6.qq.com/weixin/android/weixin8077android3160_0x28004d30_arm64_1.apk"
+        },
         {
           "name": "v8.0.76_0x28004c31(3141)",
           "detail": "",
