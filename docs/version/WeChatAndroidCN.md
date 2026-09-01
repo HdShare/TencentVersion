@@ -4,7 +4,7 @@ layout: home
 hero:
   name: "WeChatAndroidCN"
   text: "微信 Android 国内版"
-  tagline: 随缘更新
+  tagline: 随缘搬运
   actions:
     - theme: alt
       text: "有效数 198/198"

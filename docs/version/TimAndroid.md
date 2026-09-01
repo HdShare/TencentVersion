@@ -2,9 +2,9 @@
 layout: home
 
 hero:
-  name: "TimVersion"
-  text: "Tim版本"
-  tagline: 随缘更新
+  name: "TimAndroid"
+  text: "Tim Android 版"
+  tagline: 随缘搬运
   actions:
     - theme: alt
       text: "有效数 6/18"
