@@ -7,19 +7,38 @@ const repoRoot = process.cwd();
 const docsDataPath = path.join(repoRoot, "data", "docsData.json");
 const versionDir = path.join(repoRoot, "docs", "version");
 
-const checkLinkConcurrency = 16;
+const checkLinkConcurrency = 8;
 const checkLinkTimeoutMs = 10000;
+const checkLinkMaxAttempts = 3;
+const retryableStatuses = new Set([408, 425, 429, 500, 502, 503, 504]);
 
-async function checkLink(url) {
+async function requestLink(url, method) {
   try {
     const resp = await fetch(url, {
-      method: "HEAD",
+      method,
+      headers: method === "GET" ? { Range: "bytes=0-0" } : undefined,
       signal: AbortSignal.timeout(checkLinkTimeoutMs),
     });
-    return { ok: resp.status == 200, status: resp.status };
+    if (method === "GET") {
+      await resp.body?.cancel();
+    }
+    return { ok: resp.ok, status: resp.status, method };
   } catch (error) {
-    return { ok: false, error: error.message };
+    return { ok: false, error: error.message, method };
   }
+}
+
+async function checkLink(url) {
+  let result;
+  for (let attempt = 1; attempt <= checkLinkMaxAttempts; attempt += 1) {
+    result = await requestLink(url, "HEAD");
+    if (result.ok) return { ...result, attempt };
+
+    result = await requestLink(url, "GET");
+    if (result.ok) return { ...result, attempt };
+    if (result.status && !retryableStatuses.has(result.status)) break;
+  }
+  return result;
 }
 
 async function checkLinks(apps) {
