@@ -51,7 +51,7 @@ jobs:
         run: |
           git config --local user.name "github-actions[bot]"
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add docs/index.md docs/version/*.md
+          git add --all -- docs/index.md docs/version
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else

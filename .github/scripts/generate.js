@@ -1,7 +1,7 @@
 const fs = require("fs");
 const path = require("path");
 
-const { readFile, writeFile } = fs.promises;
+const { readFile, readdir, unlink, writeFile } = fs.promises;
 
 const repoRoot = process.cwd();
 const docsDataPath = path.join(repoRoot, "data", "docsData.json");
@@ -58,6 +58,10 @@ async function checkLinks(apps) {
 }
 
 function renderPage(app, results) {
+  const totalCount = app.versions.length;
+  const validCount = app.versions.filter(
+    (version) => results.get(version.url)?.ok,
+  ).length;
   const lines = [
     "---",
     "layout: home",
@@ -66,11 +70,15 @@ function renderPage(app, results) {
     `  name: ${JSON.stringify(app.hero.name)}`,
     `  text: ${JSON.stringify(app.hero.text)}`,
     `  tagline: ${app.hero.tagline}`,
+    "  actions:",
+    "    - theme: alt",
+    `      text: ${JSON.stringify(`有效数 ${validCount}/${totalCount}`)}`,
+    '      link: ""',
     "",
     "features:",
   ];
   for (const version of app.versions) {
-    const status = results.get(version.url)?.ok ? "" : "[Invalid]";
+    const status = results.get(version.url)?.ok ? "" : "[无效]";
     const detail = [status, version.detail].filter(Boolean).join(" ");
     lines.push(
       `  - title: ${version.name}`,
@@ -94,10 +102,17 @@ function renderIndex(data) {
     `  name: ${JSON.stringify(data.index.hero.name)}`,
     `  text: ${JSON.stringify(data.index.hero.text)}`,
     `  tagline: ${data.index.hero.tagline}`,
+    "  actions:",
+    "    - theme: alt",
+    `      text: View on GitHub`,
+    '      link: "https://github.com/HdShare/TencentVersion"',
     "",
     "features:",
   ];
   for (const app of data.apps) {
+    if (app.versions.length === 0) {
+      continue;
+    }
     const pageName = app.hero.name;
     const detail =
       app.versions.length > 0
@@ -114,6 +129,21 @@ function renderIndex(data) {
   lines.pop();
   lines.push("---", "");
   return lines.join("\n");
+}
+
+async function cleanupPages(apps) {
+  const expectedFiles = new Set(apps.map((app) => `${app.hero.name}.md`));
+  const entries = await readdir(versionDir, { withFileTypes: true });
+  await Promise.all(
+    entries
+      .filter(
+        (entry) =>
+          entry.isFile() &&
+          entry.name.endsWith(".md") &&
+          !expectedFiles.has(entry.name),
+      )
+      .map((entry) => unlink(path.join(versionDir, entry.name))),
+  );
 }
 
 async function main() {
@@ -133,6 +163,7 @@ async function main() {
       "utf8",
     ),
   ]);
+  await cleanupPages(docsData.apps);
 }
 
 main().catch((error) => {
