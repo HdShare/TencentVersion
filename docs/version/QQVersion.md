@@ -5,8 +5,22 @@ hero:
   name: "QQVersion"
   text: "QQ版本"
   tagline: 随缘更新
+  actions:
+    - theme: alt
+      text: "有效数 32/160"
+      link: ""
 
 features:
+  - title: v9.3.55.40650(15900)
+    details:
+    linkText: Download
+    link: https://downv6.qq.com/qqweb/QQ_1/android_apk/9.3.55_226abb86565ab9e9.apk
+
+  - title: v9.3.50.40225(15730)
+    details:
+    linkText: Download
+    link: https://downv6.qq.com/qqweb/QQ_1/android_apk/9.3.50_287766897f4a7ec5.apk
+
   - title: v9.3.35.39800(15560)
     details:
     linkText: Download
@@ -98,7 +112,7 @@ features:
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/9.2.60_2d027de571d58f90.apk
 
   - title: v9.2.55.33000(12840)
-    details: "[Invalid]"
+    details:
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/9.2.55_8ad932464eb5e30b.apk
 
@@ -133,7 +147,7 @@ features:
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.2.20_64.apk
 
   - title: v9.2.15.29600(11480)
-    details: "[Invalid]"
+    details:
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.2.15_64.apk
 
@@ -148,7 +162,7 @@ features:
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.2.5_64_HB2.apk
 
   - title: v9.2.0.28325(10970)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.2.0_64.apk
 
@@ -163,637 +177,637 @@ features:
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.95_64.apk
 
   - title: v9.1.92.26650(10300)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.92_64.apk
 
   - title: v9.1.91.26645(10298)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.91_64.apk
 
   - title: v9.1.90.26625(10290)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.90_64.apk
 
   - title: v9.1.76.26090(10076)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.76_64_HB.apk
 
   - title: v9.1.75.26070(10068)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.75_64.apk
 
   - title: v9.1.71.25665(9906)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.71_64.apk
 
   - title: v9.1.70.25645(9898)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.70_64.apk
 
   - title: v9.1.67.25220(9728)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.67_64.apk
 
   - title: v9.1.65.24795(9558)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.65_64.apk
 
   - title: v9.1.65.24735(9534)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.65.24735_64.apk
 
   - title: v9.1.65.24715(9526)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.65.24715_64.apk
 
   - title: v9.1.65.24705(9522)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.65.24705_64.apk
 
   - title: v9.1.60.24370(9388)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.60_64.apk
 
   - title: v9.1.60.24275(9350)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.60.24275_64.apk
 
   - title: v9.1.55.23945(9218)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.55_64.apk
 
   - title: v9.1.55.23850(9180)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.55.23850_64.apk
 
   - title: v9.1.52.23535(9054)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.52_64.apk
 
   - title: v9.1.50.23520(9048)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.50_64.apk
 
   - title: v9.1.35.22670(8708)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.35_64.apk
 
   - title: v9.1.31.22255(8542)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.31_64.apk
 
   - title: v9.1.30.22245(8538)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.30_64.apk
 
   - title: v9.1.25.21820(8368)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.25_64.apk
 
   - title: v9.1.25.21715(8326)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.25.21715_64.apk
 
   - title: v9.1.20.21395(8198)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.20_64.apk
 
   - title: v9.1.20.21290(8156)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.20.21290_64.apk
 
   - title: v9.1.16.20980(8032)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.16_64.apk
 
   - title: v9.1.15.20970(8028)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.15_64.apk
 
   - title: v9.1.15.20875(7990)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.15.20875_64.apk
 
   - title: v9.1.15.20865(7986)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.15.20865_64.apk
 
   - title: v9.1.10.20545(7858)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.10_64.apk
 
   - title: v9.1.10.20440(7816)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.10.20440_64.apk
 
   - title: v9.1.5.20120(7688)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.5_64.apk
 
   - title: v9.1.5.20030(7652)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.5.20030_64.apk
 
   - title: v9.1.5.20015(7646)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.5.20015_64.apk
 
   - title: v9.1.0.19695(7518)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.0_64.apk
 
   - title: v9.1.0.19640(7496)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.0.19640_64.apk
 
   - title: v9.0.95.19320(7368)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.95_64.apk
 
   - title: v9.0.95.19275(7350)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.95.19275_64.apk
 
   - title: v9.0.95.19265(7346)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.95.19265_64.apk
 
   - title: v9.0.90.18945(7218)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.90_64.apk
 
   - title: v9.0.90.18890(7196)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.90.18890_64.apk
 
   - title: v9.0.85.18570(7068)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.85_64.apk
 
   - title: v9.0.85.18515(7046)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.85.18515_64.apk
 
   - title: v9.0.81.18205(6922)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.81_64.apk
 
   - title: v9.0.80.18195(6918)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.80_64.apk
 
   - title: v9.0.80.18140(6896)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.80.18140_64.apk
 
   - title: v9.0.75.17920(6808)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.75_64.apk
 
   - title: v9.0.75.17880(6792)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.75.17880_64.apk
 
   - title: v9.0.75.17865(6786)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.75.17865_64.apk
 
   - title: v9.0.71.17655(6702)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.71_64.apk
 
   - title: v9.0.70.17645(6698)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.70_64.apk
 
   - title: v9.0.70.17590(6676)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.70.17590_64.apk
 
   - title: v9.0.65.17370(6588)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.65_64.apk
 
   - title: v9.0.65.17320(6568)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.65.17320_64.apk
 
   - title: v9.0.65.17315(6566)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.65.17315_64.apk
 
   - title: v9.0.60.17095(6478)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.60_64.apk
 
   - title: v9.0.60.17050(6460)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.60.17050_64.apk
 
   - title: v9.0.60.17045(6458)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.60.17045_64.apk
 
   - title: v9.0.60.17040(6456)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.60.17040_64.apk
 
   - title: v9.0.56.16830(6372)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.56_64.apk
 
   - title: v9.0.55.16820(6368)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.55_64.apk
 
   - title: v9.0.55.16770(6348)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.55.16770_64.apk
 
   - title: v9.0.55.16765(6346)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.55.16765_64.apk
 
   - title: v9.0.50.16545(6258)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.50_64.apk
 
   - title: v9.0.50.16490(6236)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.50.16490_64.apk
 
   - title: v9.0.35.16275(6150)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.35_64.apk
 
   - title: v9.0.35.16220(6128)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.35.16220_64.apk
 
   - title: v9.0.35.16215(6126)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.35.16215_64.apk
 
   - title: v9.0.30.15995(6038)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.30_64.apk
 
   - title: v9.0.30.15945(6016)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.30.15945_64.apk
 
   - title: v9.0.30.15940(6014)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.30.15940_64.apk
 
   - title: v9.0.25.15760(5942)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.25_64.apk
 
   - title: v9.0.25.15660(5902)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.25.15660_64.apk
 
   - title: v9.0.25.15655(5900)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.25.15655_64.apk
 
   - title: v9.0.20.15515(5844)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.20_64.apk
 
   - title: v9.0.20.15360(5782)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.20.15360_64.apk
 
   - title: v9.0.17.15185(5712)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.17_64.apk
 
   - title: v9.0.15.14970(5626)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.15_64.apk
 
   - title: v9.0.15.14820(5566)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.15.14820_64.apk
 
   - title: v9.0.15.14815(5564)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.15.14815_64.apk
 
   - title: v9.0.8.14755(5540)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.8_64.apk
 
   - title: v9.0.8.14600(5478)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.8.14600_64.apk
 
   - title: v9.0.0.14110(5282)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.0_64.apk
 
   - title: v9.0.0.13960(5222)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.0.13960_64.apk
 
   - title: v9.0.0.13955(5220)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.0.0.13955_64.apk
 
   - title: v8.9.93.13475(5028)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_8.9.93_64.apk
 
   - title: v8.9.93.13320(4966)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_8.9.93.13320_64.apk
 
   - title: v8.9.93.13315(4964)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_8.9.93.13315_64.apk
 
   - title: v8.9.90.13250(4938)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_8.9.90_64.apk
 
   - title: v8.9.90.13105(4880)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_8.9.90.13105_64.apk
 
   - title: v8.9.90.13100(4878)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_8.9.90.13100_64.apk
 
   - title: v8.9.90.13095(4876)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_8.9.90.13095_64.apk
 
   - title: v8.9.88.13035(4852)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_8.9.88_64.apk
 
   - title: v8.9.88.12890(4794)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_8.9.88.12890_64.apk
 
   - title: v8.9.88.12880(4790)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_8.9.88.12880_64.apk
 
   - title: v8.9.85.12820(4766)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_8.9.85_64.apk
 
   - title: v8.9.85.12665(4704)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_8.9.85.12665_64.apk
 
   - title: v8.9.85.12650(4698)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_8.9.85.12650_64.apk
 
   - title: v8.9.83.12605(4680)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_8.9.83_64.apk
 
   - title: v8.9.83.12580(4670)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_8.9.83.12580_64.apk
 
   - title: v8.9.83.12500(4638)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_8.9.83.12500_64.apk
 
   - title: v8.9.80.12440(4614)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_8.9.80_64.apk
 
   - title: v8.9.80.12340(4574)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_8.9.80.12340_64.apk
 
   - title: v8.9.80.12335(4572)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_8.9.80.12335_64.apk
 
   - title: v8.9.78.12275(4548)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_8.9.78_64.apk
 
   - title: v8.9.78.12180(4510)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_8.9.78.12180_64.apk
 
   - title: v8.9.78.12170(4506)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_8.9.78.12170_64.apk
 
   - title: v8.9.76.12115(4484)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_8.9.76_64.apk
 
   - title: v8.9.75.12110(4482)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_8.9.75_64.apk
 
   - title: v8.9.75.12005(4440)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_8.9.75.12005_64.apk
 
   - title: v8.9.73.11945(4416)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_8.9.73_64.apk
 
   - title: v8.9.73.11795(4356)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_8.9.73.11795_64.apk
 
   - title: v8.9.73.11790(4354)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_8.9.73.11790_64.apk
 
   - title: v8.9.71.11735(4332)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_8.9.71_64.apk
 
   - title: v8.9.70.11730(4330)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_8.9.70_64.apk
 
   - title: v8.9.70.11635(4292)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_8.9.70.11635_64.apk
 
   - title: v8.9.70.11630(4290)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_8.9.70.11630_64.apk
 
   - title: v8.9.70.11625(4288)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_8.9.70.11625_64.apk
 
   - title: v8.9.63.11390(4194)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_8.9.63.11390_64.apk
 
   - title: v8.9.63.11380(4190)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_8.9.63.11380_64.apk
 
   - title: v8.9.63.11375(4188)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_8.9.63.11375_64.apk
 
   - title: v8.9.63.11370(4186)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_8.9.63.11370_64.apk
 
   - title: v8.9.63.11365(4184)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_8.9.63.11365_64.apk
 
   - title: v8.9.63.11360(4182)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_8.9.63.11360_64.apk
 
   - title: v8.9.63.11355(4180)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_8.9.63.11355_64.apk
 
   - title: v8.9.63.11345(4176)
-    details: "[Invalid] The First NT Version"
+    details: "[无效] The First NT Version"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_8.9.63.11345_64.apk
 
   - title: v8.9.58(4106)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_8.9.58_64.apk
 ---

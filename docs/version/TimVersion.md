@@ -5,6 +5,10 @@ hero:
   name: "TimVersion"
   text: "Tim版本"
   tagline: 随缘更新
+  actions:
+    - theme: alt
+      text: "有效数 6/18"
+      link: ""
 
 features:
   - title: v4.1.0(4050)
@@ -13,7 +17,7 @@ features:
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/tim_4.1.0.4050.apk
 
   - title: v4.0.99(4030)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/tim_4.0.99.4030.apk
 
@@ -43,57 +47,57 @@ features:
     link: https://tim-1258344701.shiply-cdn.qq.com/apprelease/gray/ad6b501b0e/prod/1730484209/tim_4.0.95.4002_rcf2b138c_64_t2024-11-01_v4002_GrayOne_537249285_cid0_release-signed.apk
 
   - title: v3.5.8(1358)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/TIM_3.5.8.3228_64.apk
 
   - title: v3.5.7(1348)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/TIM_3.5.7.3218_64.apk
 
   - title: v3.5.6(1338)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/TIM_3.5.6.3208_64.apk
 
   - title: v3.5.5(1328)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/tim_3.5.5.3198_64.apk
 
   - title: v3.5.2(1308)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/tim_3.5.2.3178_537162285_64.apk
 
   - title: v3.5.1(1298)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/tim_3.5.1.3168_537150355_64.apk
 
   - title: v3.5.0(1288)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/tim_3.5.0.3148_537143920_64.apk
 
   - title: v3.5.0(1278)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/tim_3.5.0.3138_537142492_64.apk
 
   - title: v3.4.9(1268)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/tim_3.4.9.3128_537138342_64.apk
 
   - title: v3.4.8(1258)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/tim_3.4.8.3118_537129528_64.apk
 
   - title: v3.4.8(1248)
-    details: "[Invalid]"
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/tim_3.4.8.3108_537129495_64.apk
 ---

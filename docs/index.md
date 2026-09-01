@@ -5,10 +5,14 @@ hero:
   name: "TencentVersion"
   text: "腾讯版本"
   tagline: 随缘更新
+  actions:
+    - theme: alt
+      text: View on GitHub
+      link: "https://github.com/HdShare/TencentVersion"
 
 features:
   - title: QQVersion
-    details: "v9.3.35.39800(15560) ~ v8.9.58(4106)"
+    details: "v9.3.55.40650(15900) ~ v8.9.58(4106)"
     linkText: Open
     link: /version/QQVersion
 
@@ -17,8 +21,8 @@ features:
     linkText: Open
     link: /version/TimVersion
 
-  - title: WeChatVersion
-    details: "v8.0.76_0x28004c31(3141) ~ v5.3.1(460)"
+  - title: WeChatAndroidCN
+    details: "v8.0.77(3160)_0x28004d30_1 ~ v5.4.0(480)_0x25040032"
     linkText: Open
-    link: /version/WeChatVersion
+    link: /version/WeChatAndroidCN
 ---
