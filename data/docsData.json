@@ -3,7 +3,7 @@
     "hero": {
       "name": "TencentVersion",
       "text": "腾讯版本",
-      "tagline": "随缘更新"
+      "tagline": "随缘搬运"
     }
   },
   "apps": [
@@ -11,7 +11,7 @@
       "hero": {
         "name": "QQAndroid",
         "text": "QQ Android 版",
-        "tagline": "随缘更新"
+        "tagline": "随缘搬运"
       },
       "versions": [
         {
@@ -833,39 +833,9 @@
     },
     {
       "hero": {
-        "name": "QQWindows",
-        "text": "QQ Windows 版",
-        "tagline": "随缘更新"
-      },
-      "versions": [
-        {
-          "name": "v9.9.35.52892",
-          "detail": "",
-          "url": "https://qqdl.gtimg.cn/qqfile/QQNT/9.9.35/beta/8a8b2a64/QQ9.9.35.52892_x64.exe"
-        }
-      ]
-    },
-    {
-      "hero": {
-        "name": "QQMacOS",
-        "text": "QQ macOS 版",
-        "tagline": "随缘更新"
-      },
-      "versions": []
-    },
-    {
-      "hero": {
-        "name": "QQLinux",
-        "text": "QQ Linux 版",
-        "tagline": "随缘更新"
-      },
-      "versions": []
-    },
-    {
-      "hero": {
         "name": "TimAndroid",
         "text": "Tim Android 版",
-        "tagline": "随缘更新"
+        "tagline": "随缘搬运"
       },
       "versions": [
         {
@@ -964,7 +934,7 @@
       "hero": {
         "name": "WeChatAndroidCN",
         "text": "微信 Android 国内版",
-        "tagline": "随缘更新"
+        "tagline": "随缘搬运"
       },
       "versions": [
         {
@@ -1963,39 +1933,15 @@
       "hero": {
         "name": "WeChatAndroidGP",
         "text": "微信 Android 谷歌版",
-        "tagline": "随缘更新"
-      },
-      "versions": []
-    },
-    {
-      "hero": {
-        "name": "WeChatWindows",
-        "text": "微信 Windows 版",
-        "tagline": "随缘更新"
+        "tagline": "随缘搬运"
       },
       "versions": [
         {
-          "name": "v4.1.13.12",
+          "name": "v8.0.72(3085)_0x28004845",
           "detail": "",
-          "url": "https://dldir1v6.qq.com/weixin/Universal/Windows/WeChatWin_4.1.13.exe"
+          "url": "https://t.me/linqiqi_backup/2721"
         }
       ]
-    },
-    {
-      "hero": {
-        "name": "WeChatMacOS",
-        "text": "微信 macOS 版",
-        "tagline": "随缘更新"
-      },
-      "versions": []
-    },
-    {
-      "hero": {
-        "name": "WeChatLinux",
-        "text": "微信 Linux 版",
-        "tagline": "随缘更新"
-      },
-      "versions": []
     }
   ]
 }
