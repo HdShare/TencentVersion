@@ -7,22 +7,22 @@ hero:
   tagline: 随缘搬运
   actions:
     - theme: alt
-      text: "有效数 32/163"
+      text: "有效数 18/163"
       link: ""
 
 features:
   - title: v9.3.55(15900)_40650
-    details:
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/9.3.55_226abb86565ab9e9.apk
 
   - title: v9.3.50(15730)_40225
-    details:
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/9.3.50_287766897f4a7ec5.apk
 
   - title: v9.3.35(15560)_39800
-    details:
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/9.3.35_c8b6508666f45fb7.apk
 
@@ -32,7 +32,7 @@ features:
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/9.3.30_a9d86b4594ac7ede.apk
 
   - title: v9.3.25(15220)_38950
-    details:
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/9.3.25_a9d86b4594ac6bcb.apk
 
@@ -57,7 +57,7 @@ features:
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/9.3.5_3b553a3ebc173d54.apk
 
   - title: v9.3.1(14378)_36845
-    details:
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/9.3.1_877e277185fb829c.apk
 
@@ -82,12 +82,12 @@ features:
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/9.2.85_57fb3e89d866c586.apk
 
   - title: v9.2.80(13690)_35125
-    details:
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/9.2.80_7c7d1008a4510c3d.apk
 
   - title: v9.2.75(13520)_34700
-    details:
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/9.2.75_4d7bcd66f86be0eb.apk
 
@@ -122,17 +122,17 @@ features:
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/9.2.50_ccff0d6304664ea9.apk
 
   - title: v9.2.35(12500)_32150
-    details:
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/9.2.35_0981238b4dfded76.apk
 
   - title: v9.2.30(12330)_31725
-    details:
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/9.2.30_b19fc44e0cae059f.apk
 
   - title: v9.2.27(12160)_31300
-    details:
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/9.2.27_e4f9a7b3c1d2e5f6a8b9c0d1e2f3a4b5.apk
 
@@ -142,7 +142,7 @@ features:
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/e4c1a9f3d8b72c01e6a5b3d9f821c0e4.apk
 
   - title: v9.2.20(11650)_30025
-    details:
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.2.20_64.apk
 
@@ -152,7 +152,7 @@ features:
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.2.15_64.apk
 
   - title: v9.2.10(11310)_29175
-    details:
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.2.10_64.apk
 
@@ -172,12 +172,12 @@ features:
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.2.0_64.apk
 
   - title: v9.1.97(10800)_27900
-    details:
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.97_64.apk
 
   - title: v9.1.95(10460)_27050
-    details:
+    details: "[无效]"
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/Android_9.1.95_64.apk
 
