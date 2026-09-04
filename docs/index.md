@@ -12,7 +12,7 @@ hero:
 
 features:
   - title: QQAndroid
-    details: "v9.3.55(15900)_40650 ~ v8.9.58(4106)"
+    details: "v9.3.60(16030)_40975 ~ v8.9.58(4106)"
     linkText: Open
     link: /version/QQAndroid
 
@@ -22,7 +22,7 @@ features:
     link: /version/TimAndroid
 
   - title: WeChatAndroidCN
-    details: "v8.0.78(3160)_0x28004e10 ~ v5.4.0(480)_0x25040032"
+    details: "v8.0.78(3160)_0x28004e11 ~ v5.4.0(480)_0x25040032"
     linkText: Open
     link: /version/WeChatAndroidCN
 
