@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "docs:generate": "node .github/scripts/generate.js",
+    "docs:generate": "node .github/scripts/generate_docs.js",
     "docs:dev": "npm run docs:generate && vitepress dev docs",
     "docs:build": "npm run docs:generate && vitepress build docs",
     "docs:preview": "vitepress preview docs"

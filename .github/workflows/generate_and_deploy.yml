@@ -4,7 +4,7 @@ on:
   push:
     branches: [ master ]
     paths:
-      - ".github/scripts/generate.js"
+      - ".github/scripts/generate_docs.js"
       - ".github/workflows/deploy.yml"
       - "data/docsData.json"
       - "docs/.vitepress/**"
