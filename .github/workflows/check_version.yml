@@ -25,6 +25,9 @@ jobs:
           cache: npm
 
       - name: Run Script
+        env:
+          TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
+          TG_CHANNEL_ID: ${{ secrets.TG_CHANNEL_ID }}
         run: node .github/scripts/check_version.js
 
       - name: Commit Changes
