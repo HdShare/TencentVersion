@@ -7,10 +7,20 @@ hero:
   tagline: 随缘搬运
   actions:
     - theme: alt
-      text: "有效数 200/200"
+      text: "有效数 202/202"
       link: ""
 
 features:
+  - title: v8.0.78(3160)_0x28004e13
+    details: "时间 2026-09-08 21:48:54"
+    linkText: Download
+    link: https://dldir1v6.qq.com/weixin/android/weixin8078android3160_0x28004e13_arm64.apk
+
+  - title: v8.0.78(3160)_0x28004e12
+    details: "时间 2026-09-07 17:59:01"
+    linkText: Download
+    link: https://dldir1v6.qq.com/weixin/android/weixin8078android3160_0x28004e12_arm64.apk
+
   - title: v8.0.78(3160)_0x28004e11
     details: "时间 2026-09-04 18:07:01"
     linkText: Download
