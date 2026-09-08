@@ -25,6 +25,9 @@ jobs:
           cache: npm
 
       - name: Run Script
+        env:
+          TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
+          TG_CHANNEL_ID: ${{ secrets.TG_CHANNEL_ID }}
         run: node .github/scripts/check_version.js
 
       - name: Commit Changes
@@ -36,6 +39,6 @@ jobs:
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "新增: 抖音下载地址"
+            git commit -m "新增: DY 最新下载地址"
             git push origin HEAD:master
           fi
