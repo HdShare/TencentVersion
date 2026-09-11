@@ -52,7 +52,7 @@ async function main() {
   const { name, code, url } = await getVersionInfo(40000000);
   console.log(`最新地址: ${url}`);
 
-  if (dyData.some(({ url }) => url === url)) {
+  if (dyData.some((item) => item.url === url)) {
     console.log("地址已存在, 跳过更新");
     return;
   }
@@ -61,7 +61,7 @@ async function main() {
   await writeFile(dyDataPath, `${JSON.stringify(dyData, null, 2)}\n`, "utf8");
   console.log(`写入本地, 共 ${dyData.length} 条`);
 
-  const message = `DouYin_${name}_${code}\n\n下载地址: ${url}`;
+  const message = `DouYin_${name}_${code}\n\n下载地址:\n${url}\n\n#DY@backup_apk`;
   await sendNotify(message);
 }
 
