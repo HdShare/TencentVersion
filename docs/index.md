@@ -22,7 +22,7 @@ features:
     link: /version/TimAndroid
 
   - title: WeChatAndroidCN
-    details: "v8.0.78(3180)_0x28004e30 ~ v5.4.0(480)_0x25040032"
+    details: "v8.0.78(3180)_0x28004e32 ~ v5.4.0(480)_0x25040032"
     linkText: Open
     link: /version/WeChatAndroidCN
 
@@ -30,4 +30,9 @@ features:
     details: "v8.0.77(3141)_0x28004d41 ~ v8.0.72(3085)_0x28004845"
     linkText: Open
     link: /version/WeChatAndroidGP
+
+  - title: DouYinAndroidCN
+    details: "v40.5.0_40500300 ~ v31.5.0_31509922"
+    linkText: Open
+    link: /version/DouYinAndroidCN
 ---
