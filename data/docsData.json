@@ -953,6 +953,11 @@
       },
       "versions": [
         {
+          "name": "v8.0.78(3180)_0x28004e32",
+          "detail": "时间 2026-09-09 17:00:20",
+          "url": "https://dldir1v6.qq.com/weixin/android/weixin8078android3180_0x28004e32_arm64.apk"
+        },
+        {
           "name": "v8.0.78(3180)_0x28004e30",
           "detail": "时间 2026-09-09 17:00:20",
           "url": "https://dldir1v6.qq.com/weixin/android/weixin8078android3180_0x28004e30_arm64.apk"
@@ -1985,6 +1990,50 @@
           "name": "v8.0.72(3085)_0x28004845",
           "detail": "",
           "url": "https://t.me/linqiqi_backup/2721"
+        }
+      ]
+    },
+    {
+      "hero": {
+        "name": "DouYinAndroidCN",
+        "text": "抖音 Android 国内版",
+        "tagline": "随缘搬运"
+      },
+      "versions": [
+        {
+          "name": "v40.5.0_40500300",
+          "detail": "",
+          "url": "https://n98-lf-aweme-app-ncdn.bytetos.com/obj/rocketpackagebackup/app_gray_40500300_v40.5.0_b609236-with-plugins_channel_7zip_aligned-signed_WEbglIzeKatGnAHIGVTDsKmLBdxQVJ.apk"
+        },
+        {
+          "name": "v40.5.0_40500200",
+          "detail": "",
+          "url": "https://n98-lf-aweme-app-ncdn.bytetos.com/obj/rocketpackagebackup/app_gray_40500200_v40.5.0_2efb523-with-plugins_channel_7zip_aligned-signed_cUZBDSwgsxkMQcrCOMZKDqMvdndAqi.apk"
+        },
+        {
+          "name": "v40.4.0_40409900",
+          "detail": "",
+          "url": "https://n98-lf-aweme-app-ncdn.bytetos.com/obj/rocketpackagebackup/douyin_40409900_official_update_7zip_aligned-signed_dQNwkDfJOYyXcsxJQrBJSgPosXJhNK.apk"
+        },
+        {
+          "name": "v40.4.0_40400300",
+          "detail": "",
+          "url": "https://n98-lf-aweme-app-ncdn.bytetos.com/obj/rocketpackagebackup/app_gray_40400300_v40.4.0_f5ff39e-with-plugins_channel_7zip_aligned-signed_YYucNTvigKIKGncKNyZGjdHmKEEGnE.apk"
+        },
+        {
+          "name": "v40.4.0_40400200",
+          "detail": "",
+          "url": "https://n98-lf-aweme-app-ncdn.bytetos.com/obj/rocketpackagebackup/app_gray_40400200_v40.4.0_bca53fb-with-plugins_channel_7zip_aligned-signed_PlBuWjSYfVspFcqugAwiRYPCUwzGJF.apk"
+        },
+        {
+          "name": "v40.3.0_40309900",
+          "detail": "",
+          "url": "https://n98-lf-aweme-app-ncdn.bytetos.com/obj/rocketpackagebackup/douyin_40309900_official_update_7zip_aligned-signed_tWoGiMNyBvfNmTbhzORvRfbYNtNkxe.apk"
+        },
+        {
+          "name": "v31.5.0_31509922",
+          "detail": "",
+          "url": "https://n98-lf-aweme-app-ncdn.bytetos.com/obj/rocketpackagebackup/app_independent_gray_31509922_v31.5.0_a98e665-with-plugins_channel_7zip_aligned-signed_oOxXdkMCmfQZEaFKhAfFWPpnpnxqsS.apk"
         }
       ]
     }
