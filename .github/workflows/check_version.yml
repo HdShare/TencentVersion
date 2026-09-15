@@ -6,6 +6,7 @@ on:
   workflow_dispatch:
 
 permissions:
+  actions: write
   contents: write
 
 jobs:
@@ -31,6 +32,7 @@ jobs:
         run: node .github/scripts/check_version.js
 
       - name: Commit Changes
+        id: commit
         if: success()
         run: |
           git config --local user.name "github-actions[bot]"
@@ -38,7 +40,15 @@ jobs:
           git add -- data/docsData.json
           if git diff --staged --quiet; then
             echo "No changes to commit"
+            echo "changed=false" >> "$GITHUB_OUTPUT"
           else
             git commit -m "新增: 应用最新版本地址"
             git push origin HEAD:master
+            echo "changed=true" >> "$GITHUB_OUTPUT"
           fi
+
+      - name: Trigger Workflow
+        if: steps.commit.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run generate_and_deploy.yml --ref master

@@ -5,7 +5,7 @@ on:
     branches: [ master ]
     paths:
       - ".github/scripts/generate_docs.js"
-      - ".github/workflows/deploy.yml"
+      - ".github/workflows/generate_and_deploy.yml"
       - "data/docsData.json"
       - "docs/.vitepress/**"
       - "package.json"
