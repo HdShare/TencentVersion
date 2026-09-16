@@ -2001,6 +2001,11 @@
       },
       "versions": [
         {
+          "name": "v40.6.0_40600100",
+          "detail": "",
+          "url": "https://n98-lf-aweme-app-ncdn.bytetos.com/obj/rocketpackagebackup/app_gray_40600100_v40.6.0_525cce1-with-plugins_channel_7zip_aligned-signed_PkBHlvdrsBAghvCQyXcHDyBALzrejj.apk"
+        },
+        {
           "name": "v40.5.0_40509900",
           "detail": "",
           "url": "https://n98-lf-aweme-app-ncdn.bytetos.com/obj/rocketpackagebackup/douyin_40509900_official_update_7zip_aligned-signed_DSAoICuyAFKCuDgQUVIiPkpqBPssKB.apk"
