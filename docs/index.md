@@ -12,7 +12,7 @@ hero:
 
 features:
   - title: QQAndroid
-    details: "v9.3.60(16070)_41075 ~ v8.9.58(4106)"
+    details: "v9.3.70(16368)_41820 ~ v8.9.58(4106)"
     linkText: Open
     link: /version/QQAndroid
 

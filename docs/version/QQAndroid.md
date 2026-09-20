@@ -7,10 +7,20 @@ hero:
   tagline: 随缘搬运
   actions:
     - theme: alt
-      text: "有效数 35/166"
+      text: "有效数 37/168"
       link: ""
 
 features:
+  - title: v9.3.70(16368)_41820
+    details:
+    linkText: Download
+    link: https://downv6.qq.com/qqweb/QQ_1/android_apk/51ea2212b80029d6f3efe140442a4cde.apk
+
+  - title: v9.3.65(16240)_41500
+    details:
+    linkText: Download
+    link: https://downv6.qq.com/qqweb/QQ_1/android_apk/9.3.65_2a98ecf55b5ee03a.apk
+
   - title: v9.3.60(16070)_41075
     details:
     linkText: Download
