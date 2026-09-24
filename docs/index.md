@@ -22,7 +22,7 @@ features:
     link: /version/TimAndroid
 
   - title: WeChatAndroidCN
-    details: "v8.0.78(3180)_0x28004e32 ~ v5.4.0(480)_0x25040032"
+    details: "v8.0.79(3180)_0x28004f10 ~ v5.4.0(480)_0x25040032"
     linkText: Open
     link: /version/WeChatAndroidCN
 
