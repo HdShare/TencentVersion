@@ -963,6 +963,11 @@
       },
       "versions": [
         {
+          "name": "v8.0.79(3200)_0x28004f30",
+          "detail": "",
+          "url": "https://dldir1v6.qq.com/weixin/android/weixin8079android3200_0x28004f30_arm64.apk"
+        },
+        {
           "name": "v8.0.79(3180)_0x28004f12",
           "detail": "",
           "url": "https://dldir1v6.qq.com/weixin/android/weixin8079android3180_0x28004f12_arm64.apk"
