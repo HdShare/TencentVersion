@@ -32,7 +32,7 @@ features:
     link: /version/WeChatAndroidGP
 
   - title: DouYinAndroidCN
-    details: "v40.7.0_40700400 ~ v31.5.0_31509922"
+    details: "v40.7.0_40709900 ~ v31.5.0_31509922"
     linkText: Open
     link: /version/DouYinAndroidCN
 ---
