@@ -7,17 +7,22 @@ hero:
   tagline: 随缘搬运
   actions:
     - theme: alt
-      text: "有效数 19/19"
+      text: "有效数 17/20"
       link: ""
 
 features:
-  - title: v40.8.0_40800200
+  - title: v40.8.0_40800300
     details:
+    linkText: Download
+    link: https://n98-lf-aweme-app-ncdn.bytetos.com/obj/rocketpackagebackup/app_gray_40800300_v40.8.0_967feac-with-plugins_channel_7zip_aligned-signed_UOHMwjCJsKvECXYWHAqgeCrSrQfpWb.apk
+
+  - title: v40.8.0_40800200
+    details: "[无效]"
     linkText: Download
     link: https://n98-lf-aweme-app-ncdn.bytetos.com/obj/rocketpackagebackup/app_gray_40800200_v40.8.0_e399591-with-plugins_channel_7zip_aligned-signed_qMWEbgvwUkUIWuBqtVSinmHgDwYlcI.apk
 
   - title: v40.8.0_40800100
-    details:
+    details: "[无效]"
     linkText: Download
     link: https://n98-lf-aweme-app-ncdn.bytetos.com/obj/rocketpackagebackup/app_gray_40800100_v40.8.0_08e43ce-with-plugins_channel_7zip_aligned-signed_zDpfrDWveZwegMeuixBwZVSXnYFuNk.apk
 
@@ -87,7 +92,7 @@ features:
     link: https://n98-lf-aweme-app-ncdn.bytetos.com/obj/rocketpackagebackup/douyin_40409900_official_update_7zip_aligned-signed_dQNwkDfJOYyXcsxJQrBJSgPosXJhNK.apk
 
   - title: v40.4.0_40400300
-    details:
+    details: "[无效]"
     linkText: Download
     link: https://n98-lf-aweme-app-ncdn.bytetos.com/obj/rocketpackagebackup/app_gray_40400300_v40.4.0_f5ff39e-with-plugins_channel_7zip_aligned-signed_YYucNTvigKIKGncKNyZGjdHmKEEGnE.apk
 
