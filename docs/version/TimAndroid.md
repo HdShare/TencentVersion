@@ -7,12 +7,12 @@ hero:
   tagline: 随缘搬运
   actions:
     - theme: alt
-      text: "有效数 5/18"
+      text: "有效数 6/18"
       link: ""
 
 features:
   - title: v4.1.0(4050)
-    details: "[无效]"
+    details:
     linkText: Download
     link: https://downv6.qq.com/qqweb/QQ_1/android_apk/tim_4.1.0.4050.apk
 
