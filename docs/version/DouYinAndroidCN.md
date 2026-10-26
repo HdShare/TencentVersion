@@ -7,10 +7,15 @@ hero:
   tagline: 随缘搬运
   actions:
     - theme: alt
-      text: "有效数 24/24"
+      text: "有效数 25/25"
       link: ""
 
 features:
+  - title: v40.9.0_40900400
+    details:
+    linkText: Download
+    link: https://n98-lf-aweme-app-ncdn.bytetos.com/obj/rocketpackagebackup/app_gray_40900400_v40.9.0_a906772-with-plugins_channel_7zip_aligned-signed_keQHrejCzuDArmUauOaTsnczEiUqYN.apk
+
   - title: v40.9.0_40900300
     details:
     linkText: Download
