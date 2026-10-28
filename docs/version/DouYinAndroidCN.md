@@ -7,7 +7,7 @@ hero:
   tagline: 随缘搬运
   actions:
     - theme: alt
-      text: "有效数 20/26"
+      text: "有效数 26/26"
       link: ""
 
 features:
@@ -27,12 +27,12 @@ features:
     link: https://n98-lf-aweme-app-ncdn.bytetos.com/obj/rocketpackagebackup/app_gray_40900300_v40.9.0_4d3d252-with-plugins_channel_7zip_aligned-signed_tQHqyAWBaoCqmACxrhwNWEFFWpAWlI.apk
 
   - title: v40.9.0_40900200
-    details: "[无效]"
+    details:
     linkText: Download
     link: https://n98-lf-aweme-app-ncdn.bytetos.com/obj/rocketpackagebackup/app_gray_40900200_v40.9.0_6106f94-with-plugins_channel_7zip_aligned-signed_ySbgwZxgUvVLRwpAIGZNIKaxVFDJYz.apk
 
   - title: v40.9.0_40900100
-    details: "[无效]"
+    details:
     linkText: Download
     link: https://n98-lf-aweme-app-ncdn.bytetos.com/obj/rocketpackagebackup/app_gray_40900100_v40.9.0_bd9c8ed-with-plugins_channel_7zip_aligned-signed_MHTZbsTJOzvvVtYNyrOAugRbAABlxn.apk
 
@@ -77,12 +77,12 @@ features:
     link: https://n98-lf-aweme-app-ncdn.bytetos.com/obj/rocketpackagebackup/app_gray_40700200_v40.7.0_390da38-with-plugins_channel_7zip_aligned-signed_tJHZMivFOOYLbhMFWpNhevEnydFrWh.apk
 
   - title: v40.7.0_40700100
-    details: "[无效]"
+    details:
     linkText: Download
     link: https://n98-lf-aweme-app-ncdn.bytetos.com/obj/rocketpackagebackup/app_gray_40700100_v40.7.0_3c14ae4-with-plugins_channel_7zip_aligned-signed_HWsHunkvCNOecGUewPvBsEFFJlVyMO.apk
 
   - title: v40.6.0_40609900
-    details: "[无效]"
+    details:
     linkText: Download
     link: https://n98-lf-aweme-app-ncdn.bytetos.com/obj/rocketpackagebackup/douyin_40609900_official_update_7zip_aligned-signed_dCYPGNewSAGTCYTmHkoNhYqohvWUXZ.apk
 
@@ -127,12 +127,12 @@ features:
     link: https://n98-lf-aweme-app-ncdn.bytetos.com/obj/rocketpackagebackup/app_gray_40400300_v40.4.0_f5ff39e-with-plugins_channel_7zip_aligned-signed_YYucNTvigKIKGncKNyZGjdHmKEEGnE.apk
 
   - title: v40.4.0_40400200
-    details: "[无效]"
+    details:
     linkText: Download
     link: https://n98-lf-aweme-app-ncdn.bytetos.com/obj/rocketpackagebackup/app_gray_40400200_v40.4.0_bca53fb-with-plugins_channel_7zip_aligned-signed_PlBuWjSYfVspFcqugAwiRYPCUwzGJF.apk
 
   - title: v40.3.0_40309900
-    details: "[无效]"
+    details:
     linkText: Download
     link: https://n98-lf-aweme-app-ncdn.bytetos.com/obj/rocketpackagebackup/douyin_40309900_official_update_7zip_aligned-signed_tWoGiMNyBvfNmTbhzORvRfbYNtNkxe.apk
 
