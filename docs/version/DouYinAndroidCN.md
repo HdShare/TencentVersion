@@ -7,10 +7,15 @@ hero:
   tagline: 随缘搬运
   actions:
     - theme: alt
-      text: "有效数 38/42"
+      text: "有效数 43/43"
       link: ""
 
 features:
+  - title: v41.4.0_41400100
+    details:
+    linkText: Download
+    link: https://n98-lf-aweme-app-ncdn.bytetos.com/obj/rocketpackagebackup/app_gray_41400100_v41.4.0_fccc4b8-with-plugins_channel_7zip_aligned-signed_sRSMtrlsbNzMyFyJBdkZfkiuzwrMEF.apk
+
   - title: v41.3.0_41309900
     details:
     linkText: Download
@@ -52,7 +57,7 @@ features:
     link: https://n98-lf-aweme-app-ncdn.bytetos.com/obj/rocketpackagebackup/app_gray_41200100_v41.2.0_b6b89e5-with-plugins_channel_7zip_aligned-signed_BOCbfYRbhfIbaCGCUYtJfUcGapJHKx.apk
 
   - title: v41.1.0_41109900
-    details: "[无效]"
+    details:
     linkText: Download
     link: https://n98-lf-aweme-app-ncdn.bytetos.com/obj/rocketpackagebackup/douyin_41109900_official_update_7zip_aligned-signed_IPATtBmjVrhhaIbvnpMefLmuQTvIPi.apk
 
@@ -112,7 +117,7 @@ features:
     link: https://n98-lf-aweme-app-ncdn.bytetos.com/obj/rocketpackagebackup/app_gray_40900200_v40.9.0_6106f94-with-plugins_channel_7zip_aligned-signed_ySbgwZxgUvVLRwpAIGZNIKaxVFDJYz.apk
 
   - title: v40.9.0_40900100
-    details: "[无效]"
+    details:
     linkText: Download
     link: https://n98-lf-aweme-app-ncdn.bytetos.com/obj/rocketpackagebackup/app_gray_40900100_v40.9.0_bd9c8ed-with-plugins_channel_7zip_aligned-signed_MHTZbsTJOzvvVtYNyrOAugRbAABlxn.apk
 
@@ -122,7 +127,7 @@ features:
     link: https://n98-lf-aweme-app-ncdn.bytetos.com/obj/rocketpackagebackup/douyin_40809900_official_update_7zip_aligned-signed_PzoFudCYecwPQWnjNKeeXxLSAvacvj.apk
 
   - title: v40.8.0_40800300
-    details: "[无效]"
+    details:
     linkText: Download
     link: https://n98-lf-aweme-app-ncdn.bytetos.com/obj/rocketpackagebackup/app_gray_40800300_v40.8.0_967feac-with-plugins_channel_7zip_aligned-signed_UOHMwjCJsKvECXYWHAqgeCrSrQfpWb.apk
 
@@ -152,7 +157,7 @@ features:
     link: https://n98-lf-aweme-app-ncdn.bytetos.com/obj/rocketpackagebackup/app_gray_40700300_v40.7.0_8c1ff19-with-plugins_channel_7zip_aligned-signed_MQPErorgGCrFPZZWcFoyJOjDiblveT.apk
 
   - title: v40.7.0_40700200
-    details: "[无效]"
+    details:
     linkText: Download
     link: https://n98-lf-aweme-app-ncdn.bytetos.com/obj/rocketpackagebackup/app_gray_40700200_v40.7.0_390da38-with-plugins_channel_7zip_aligned-signed_tJHZMivFOOYLbhMFWpNhevEnydFrWh.apk
 
