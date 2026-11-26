@@ -7,10 +7,15 @@ hero:
   tagline: 随缘搬运
   actions:
     - theme: alt
-      text: "有效数 43/43"
+      text: "有效数 43/44"
       link: ""
 
 features:
+  - title: v41.4.0_41400200
+    details:
+    linkText: Download
+    link: https://n98-lf-aweme-app-ncdn.bytetos.com/obj/rocketpackagebackup/app_gray_41400200_v41.4.0_8d37cf2-with-plugins_channel_7zip_aligned-signed_gdqEReYKgCSGBkufGexELgTWbDPRPY.apk
+
   - title: v41.4.0_41400100
     details:
     linkText: Download
@@ -62,7 +67,7 @@ features:
     link: https://n98-lf-aweme-app-ncdn.bytetos.com/obj/rocketpackagebackup/douyin_41109900_official_update_7zip_aligned-signed_IPATtBmjVrhhaIbvnpMefLmuQTvIPi.apk
 
   - title: v41.1.0_41100300
-    details:
+    details: "[无效]"
     linkText: Download
     link: https://n98-lf-aweme-app-ncdn.bytetos.com/obj/rocketpackagebackup/app_gray_41100300_v41.1.0_923bf7f-with-plugins_channel_7zip_aligned-signed_sPCCFnoqrhQshnmeOuhGaMdSkJPtyv.apk
 
